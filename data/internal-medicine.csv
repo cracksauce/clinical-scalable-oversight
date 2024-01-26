@@ -1,0 +1,592 @@
+qid,full_qa_no_demo,full_qa_w_placeholders,correct_answer,nbme_correct_explanation,nbme_incorrect_explanation
+569,"(qid: 0569) A 57-year-old woman comes to the physician because of a 6-month history of fatigue and shortness of breath with exertion. She feels winded after climbing two flights of stairs. She has no history of serious illness. Menopause occurred 9 years ago. She was receiving hormone replacement therapy but discontinued it 4 years ago because of concern about breast cancer. She does not smoke. Her pulse is 88/min, and blood pressure is 130/85 mm Hg. Crackles are heard at the lung bases. The remainder of the examination shows no abnormalities. An x-ray of the chest shows interstitial markings but no effusions. Pulmonary function tests show a decreased diffusion capacity, a decreased FVC, and an increased FEV 1 :FVC ratio consistent with a restrictive pattern. Which of the following is the most appropriate next step in diagnosis?
+A) PPD skin test
+B) Serum rheumatoid factor assay
+C) Exercise stress test
+D) High-resolution CT scan of the chest
+E) Ventilation-perfusion lung scans
+","(qid: 0569) A 57-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the physician because of a 6-month history of fatigue and shortness of breath with exertion. She feels winded after climbing two flights of stairs. She has no history of serious illness. Menopause occurred 9 years ago. She was receiving hormone replacement therapy but discontinued it 4 years ago because of concern about breast cancer. She does not smoke. Her pulse is 88/min, and blood pressure is 130/85 mm Hg. Crackles are heard at the lung bases. The remainder of the examination shows no abnormalities. An x-ray of the chest shows interstitial markings but no effusions. Pulmonary function tests show a decreased diffusion capacity, a decreased FVC, and an increased FEV 1 :FVC ratio consistent with a restrictive pattern. Which of the following is the most appropriate next step in diagnosis?
+A) PPD skin test
+B) Serum rheumatoid factor assay
+C) Exercise stress test
+D) High-resolution CT scan of the chest
+E) Ventilation-perfusion lung scans
+",D,"Interstitial lung disease (ILD) refers to the heterogeneous group of disorders that result in pulmonary fibrosis and progressively impaired lung function. There are a wide variety of underlying causes, including infections, occupational and environmental exposures, drug-induced pulmonary toxicity, radiation-induced lung injury, connective tissue disorders, hypersensitivity pneumonitis, and idiopathic disease. Patients classically present with progressive dyspnea and chronic nonproductive cough. Inspiratory crackles and hypertrophic osteoarthritis may be present on physical examination. Definitive diagnosis requires lung biopsy and histologic examination, but this is not always performed as it does not often change management. Typically, the diagnosis is made on the basis of clinical and radiological findings. A high-resolution CT scan of the chest is recommended for all patients to provide diagnostic support. Pulmonary function testing is often used to assess and monitor disease severity. ILD is associated with a restrictive pattern on spirometry and reduced diffusion capacity caused by inflammation and destruction of lung parenchyma and alveoli.","PPD skin test (Choice A) is used to test for exposure to tuberculosis. Tuberculosis can manifest in a variety of ways and can mimic interstitial lung disease in presentation and imaging. A history of tuberculosis is a risk factor for developing interstitial lung disease, and the patient should be evaluated for any history of exposure; however, the initial diagnostic test is a high-resolution CT scan. Similarly, serum rheumatoid factor assay (Choice B) may be checked as part of a panel to evaluate for autoimmune disease as a potential underlying cause of a patient's interstitial lung disease. Exercise stress test (Choice C) and ventilation-perfusion lung scans (Choice E) are not commonly used in the diagnostic work-up or management of interstitial lung disease."
+571,"(qid: 0571) A 57-year-old woman comes to the physician because of a 10-month history of severe fatigue. She awakens four to five times nightly to void. She now takes daily naps and frequently falls asleep while watching television. She has noted swelling of her legs and occasional palpitations during the past 6 months. She has not had fever, night sweats, or change in bowel movements. She has had an 18-kg (40-lb) weight gain during the past year. She is 160 cm (5 ft 3 in) tall and now weighs 145 kg (320 lb); BMI is 57 kg/m2 . Her pulse is 96/min, respirations are 20/min, and blood pressure is 160/95 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 92%. An x-ray of the chest shows no abnormalities. An ECG shows sinus tachycardia and P pulmonale. Which of the following is the most likely cause of this patient's nocturia?
+A) Chronic obstructive pulmonary disease
+B) Cystitis
+C) Hypothyroidism
+D) Narcolepsy
+E) Obesity-hypoventilation syndrome
+","(qid: 0571) A 57-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the physician because of a 10-month history of severe fatigue. She awakens four to five times nightly to void. She now takes daily naps and frequently falls asleep while watching television. She has noted swelling of her legs and occasional palpitations during the past 6 months. She has not had fever, night sweats, or change in bowel movements. She has had an 18-kg (40-lb) weight gain during the past year. She is 160 cm (5 ft 3 in) tall and now weighs 145 kg (320 lb); BMI is 57 kg/m2 . Her pulse is 96/min, respirations are 20/min, and blood pressure is 160/95 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 92%. An x-ray of the chest shows no abnormalities. An ECG shows sinus tachycardia and P pulmonale. Which of the following is the most likely cause of this patient's nocturia?
+A) Chronic obstructive pulmonary disease
+B) Cystitis
+C) Hypothyroidism
+D) Narcolepsy
+E) Obesity-hypoventilation syndrome
+",E,"Obesity-hypoventilation syndrome (OHS) is the most likely cause of this patient's nocturia. OHS is occasionally encountered in patients with a BMI over 30 kg/m2 , and it is common in patients with a BMI over 50 kg/m2. Chronic alveolar hypoventilation leads to both hypercapnia and hypoxemia. Hypercapnia results in a compensatory metabolic alkalosis, which manifests as an increased serum bicarbonate concentration, while chronic hypoxemia can lead to pulmonary hypertension and polycythemia. When severe, resting hypoxemia may be apparent. Pulmonary function tests are often done to exclude other causes of hypoventilation and hypercapnia. These studies are frequently normal, although they may disclose varying degrees of restrictive lung disease and reduced diffusing capacity. There is a substantial overlap with obstructive sleep apnea (OSA) as well, but OSA does not cause chronic hypercapnia. Because of substantial clinical overlap, it is common for patients to exhibit symptoms of hypersomnolence, morning headaches, fatigue, snoring, and nocturia. Nocturia is thought to occur because of an increased circulating concentration of atrial natriuretic peptide (ANP), which is either triggered by atrial distention resulting from an increasingly negative intrathoracic pressure that develops when breathing is occluded during sleep, or from hypoxia-induced pulmonary vasoconstriction. In either case, ANP inhibits the release of antidiuretic hormone leading to nocturia through increased excretion of free water. The diagnosis of OHS can be made in a patient with a BMI over 30 kg/m2 with documented alveolar hypoventilation while awake after exclusion of competing diagnoses.","Chronic obstructive pulmonary disease (COPD) (Choice A) often presents with exertional dyspnea and coughing or wheezing, and sometimes with resting hypoxemia. It is more common in patients who smoke cigarettes and is not as likely to present with daytime somnolence, nocturia, and daytime fatigue. COPD can be diagnosed using spirometry.
+
+Cystitis (Choice B) is unlikely to be the cause of this patient's nocturia because she does not have symptoms such as dysuria, frequency, or urgency.
+
+Hypothyroidism (Choice C) can substantially worsen symptoms of OSA, but only in severe cases that lead to respiratory muscle myopathy. While this patient's weight gain could potentially be secondary to hypothyroidism, her other clinical signs and symptoms support a diagnosis of OHS.
+
+Narcolepsy (Choice D) is a condition caused by decreased concentrations of the neuropeptides orexin-A and orexin-B. Patients present with cataplexy, hypnagogic hallucinations, sleep paralysis, and daytime somnolence. It is more common in patients under the age of 40 years."
+572,"(qid: 0572) A 37-year-old woman comes to the physician because of a 1-month history of midabdominal pain after meals. She has a 10-year history of Crohn disease and has recurrent episodes of abdominal pain. She underwent resection of the terminal ileum and cecum 5 years ago and two jejunal strictureplasties 1 year ago. Current medications include an aminosalicylate. Her temperature is 38.4 ¬°C ( 101.1 ¬°F). Abdominal examination shows moderate midsupraumbilical tenderness. There is a well-healed surgical scar. Test of the stool for occult blood is negative. An upper gastrointestinal series with contrast shows a 10-cm segment of ileum with irregular mucosa and no strictures. Which of the following is the most appropriate next step in management?
+A) Bowel rest
+B) Cyclosporine therapy
+C) Infliximab therapy
+D) Prednisone therapy
+E) Surgical exploration
+","(qid: 0572) A 37-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the physician because of a 1-month history of midabdominal pain after meals. She has a 10-year history of Crohn disease and has recurrent episodes of abdominal pain. She underwent resection of the terminal ileum and cecum 5 years ago and two jejunal strictureplasties 1 year ago. Current medications include an aminosalicylate. Her temperature is 38.4 ¬°C ( 101.1 ¬°F). Abdominal examination shows moderate midsupraumbilical tenderness. There is a well-healed surgical scar. Test of the stool for occult blood is negative. An upper gastrointestinal series with contrast shows a 10-cm segment of ileum with irregular mucosa and no strictures. Which of the following is the most appropriate next step in management?
+A) Bowel rest
+B) Cyclosporine therapy
+C) Infliximab therapy
+D) Prednisone therapy
+E) Surgical exploration
+",D,"Prednisone therapy is the best next step in management of this patient with signs and symptoms of moderate to severe Crohn disease. Clinical severity can be determined based on assessment of symptoms, which in this case include fever and abdominal pain, both of which are consistent with moderate to severe disease. Disease activity is largely based on patient-reported symptoms and is a spectrum from clinical remission to mild, moderate, severe, or fulminant disease. Patients with mild disease may have minimal weight loss but no systemic symptoms, while patients with moderate to severe disease can present with abdominal pain, gastrointestinal bleeding, nausea or vomiting, and fever. Fulminant disease is marked by the presence of severe symptoms despite the use of steroids or biologic agents, and it is often associated with complications including abscess formation, peritonitis, stricture, or bowel obstruction. In addition to clinical severity, patients should be assigned to either low, moderate, or high-risk groups based on their age, extent of disease, level of inflammatory markers, history of bowel resections, and extraintestinal manifestations, among other criteria. This patient with a history of numerous bowel resections and mucosal irregularity on endoscopy should be assigned to the high-risk group. For patients with symptoms requiring immediate treatment, oral steroids using either prednisone or budesonide for a course of 4 to 8 weeks is often utilized, but these medications are typically only used as a bridge prior to initiation of medications with fewer longterm side effects. In this case, treatment with prednisone to induce short-term remission is warranted.","Bowel rest (Choice A) would be appropriate for patients with Crohn disease presenting either with local peritonitis from a microperforation or with small bowel obstruction. While this patient does have a fever, she does not have any symptoms to suggest either of these complications.
+
+Cyclosporine therapy (Choice B) is sometimes used for patients with fistula in the setting of Crohn disease, although biologic agents are typically preferred. Cyclosporine does not generally induce remission and therefore should not be used in this case.
+
+Infliximab therapy (Choice C) is considered a first-line choice for inducing remission in patients with moderate to severe Crohn disease, especially those with fistulizing disease, although it is almost always used in combination with another immunomodulator such as azathioprine, methotrexate, or 6-mercaptopurine. Additionally, these medications frequently take several weeks to work, and steroids induce remission of symptoms faster.
+
+Surgical exploration (Choice E) is not warranted in this patient as she has no evidence of abscess, bowel obstruction, or complication that would require surgery."
+573,"(qid: 0573) A previously healthy 37-year-old man comes to the physician because of a 1-year history of intermittent burning midepigastric pain and a 2-month history of diarrhea. The pain is relieved by over-the-counter ranitidine. He passes 8 to 10 large, watery, non bloody stools daily. Examination shows no abnormalities. Test of the stool for occult blood is positive. Upper endoscopy shows multiple duodenal ulcers. Which of the following is the most likely diagnosis?
+A) Bowel lymphoma
+B) Gastrinoma
+C) Parathyroid adenoma
+D) Pheochromocytoma
+E) VIPoma
+","(qid: 0573) A previously healthy 37-year-old {dem-char-1} {dem-char-2} {dem-char-3} man comes to the physician because of a 1-year history of intermittent burning midepigastric pain and a 2-month history of diarrhea. The pain is relieved by over-the-counter ranitidine. He passes 8 to 10 large, watery, non bloody stools daily. Examination shows no abnormalities. Test of the stool for occult blood is positive. Upper endoscopy shows multiple duodenal ulcers. Which of the following is the most likely diagnosis?
+A) Bowel lymphoma
+B) Gastrinoma
+C) Parathyroid adenoma
+D) Pheochromocytoma
+E) VIPoma
+",B,"This patient with numerous duodenal ulcers most likely has a gastrin-secreting tumor. Gastrin is physiologically produced by G cells in the gastric antrum and functions to stimulate parietal cells within the gastric body to produce hydrochloric acid. Zollinger-Ellison syndrome, the constellation of findings associated with gastrinoma, stems from a gastrinsecreting tumor typically located within the pancreas or duodenum. It results in excessive production of acid by the gastric parietal cells. This can lead to recurrent, chronic duodenal or jejunal ulcers, which can present with abdominal pain, diarrhea secondary to malabsorption, and possible hematemesis, melena, or hematochezia. The initial step in evaluation of a gastrinoma is to measure the serum gastrin concentration. If abnormal, a secretin stimulation test should be performed, which would disclose increased gastrin concentrations after administration of secretin, opposite of the normal, physiologic inhibition. Cross-sectional imaging should then be performed to determine the location of the gastrinoma for planning of surgical resection. In the meantime, treatment with proton pump inhibitors is indicated to reduce gastric acidity.","Bowel lymphoma (Choice A) may occur at any point along the gastrointestinal tract from mouth to anus, but the most common sites are the stomach and the small bowel. Most of these tumors are of B-lymphocyte origin, and symptoms of abdominal pain, gastrointestinal bleeding, and anorexia share similar features with other diseases. The presence of numerous duodenal ulcers on endoscopy is more suggestive of a gastrinoma than lymphoma in this patient.
+Parathyroid adenomas (Choice C) are occasionally found in association with gastrinomas or other neuroendocrine tumors in patients with multiple endocrine neoplasia syndrome type-I. While a functional parathyroid adenoma can lead to hypercalcemia, which may cause abdominal pain, it does not explain this patient's duodenal ulcers.
+Pheochromocytoma (Choice D) presents with episodic headaches, sweating, palpitations, tremors, agitation, tachycardia, tachypnea, and treatment-refractory hypertension. It is a tumor of the adrenal medulla, and is marked by the functional secretion of epinephrine, norepinephrine, and dopamine, which cause episodic hyperadrenergic symptoms. It does not cause duodenal ulcers.
+VIPoma (Choice E) is a rare tumor associated with multiple endocrine neoplasia that produces vasoactive intestinal peptide (VIP). Through its physiologic mechanism of action, VIP causes chronic and profound watery diarrhea, electrolyte disturbances (eg, hypokalemia, hypercalcemia), achlorhydria, alkalosis, flushing, vasodilation, and hypercalcemia, but not duodenal ulcers."
+574,"(qid: 0574) A previously healthy 23-year-old woman, who is a graduate student, comes to the office because of a 4-month history of intermittent diarrhea characterized by copious loose brown stools and moderate abdominal cramps. The cramps are relieved by defecation. She has not had fever, nausea, vomiting, or weight loss. She takes ginger extract and a daily multivitamin. She smokes three to five cigarettes daily. She drinks one to three beers on special occasions. She does not use illicit drugs. She has not traveled recently. She is 168 cm (5 ft 6 in) tall and weighs 63 kg (140 lb); BMI is 23 kg/m2 . Her temperature is 37.2¬°C (99¬°F), pulse is 72/min, and blood pressure is 112/68 mm Hg. Examination, including examination of the oropharynx and abdomen, shows no abnormalities. Results of laboratory studies are within the reference ranges. Which of the following mechanisms is most likely responsible for these findings?
+A) Bacteria overgrowth
+B) Endomysial antibody formation
+C) Medication adverse effect
+D) Smooth muscle hypersensitivity
+E) Stimulant laxative use
+","(qid: 0574) A previously healthy 23-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman, who is a graduate student, comes to the office because of a 4-month history of intermittent diarrhea characterized by copious loose brown stools and moderate abdominal cramps. The cramps are relieved by defecation. She has not had fever, nausea, vomiting, or weight loss. She takes ginger extract and a daily multivitamin. She smokes three to five cigarettes daily. She drinks one to three beers on special occasions. She does not use illicit drugs. She has not traveled recently. She is 168 cm (5 ft 6 in) tall and weighs 63 kg (140 lb); BMI is 23 kg/m2 . Her temperature is 37.2¬°C (99¬°F), pulse is 72/min, and blood pressure is 112/68 mm Hg. Examination, including examination of the oropharynx and abdomen, shows no abnormalities. Results of laboratory studies are within the reference ranges. Which of the following mechanisms is most likely responsible for these findings?
+A) Bacteria overgrowth
+B) Endomysial antibody formation
+C) Medication adverse effect
+D) Smooth muscle hypersensitivity
+E) Stimulant laxative use
+",D,"Smooth muscle hypersensitivity is the most likely mechanism responsible for this patient's abdominal pain and diarrhea, which is most consistent with irritable bowel syndrome (IBS). IBS is diagnosed using the Rome-IV criteria, which includes the presence of abdominal pain at least once weekly that is associated with (generally relieved by) defecation, along with a change in stool appearance or stool frequency (at least two of three required). IBS is further subdivided into IBS with constipation (IBS-C), with diarrhea (IBS-O), or mixed (IBS-M). IBS often presents with intermittent abdominal pain that is relieved by bowel movements and associated alterations in bowel habits with intermittent episodes of diarrhea and/or constipation. Features that are suggestive of underlying organic pathology rather than IBS include the presence of occult blood or melena, nocturnal diarrhea, ongoing diarrhea despite fasting, worsening abdominal pain, weight loss, or a family history of inflammatory bowel disease or colon cancer. While no consistent or definitive mechanism has been demonstrated to account for all patients with IBS, it is thought that those with IBS may have an increased sensitivity to regularly secreted cholecystokinin, a highly sensitive gastro-colic reflex, and/or a higher rate of baseline peristalsis. Other theories including the role of food sensitivities and mucosal inflammation are being explored as potential contributing factors. Treatment often requires a multimodal approach with dietary modifications, exercise, treatment of underlying anxiety or depression, and the use of medications such as anti-diarrheal medications or anti-spasmodic agents.","Bacteria overgrowth (Choice A) occurs in the setting of impaired intestinal peristalsis, which allows for the uncontrolled growth of bacteria caused by the loss of appropriate peristaltic propulsion. This can result in intestinal malabsorption, diarrhea, bloating, and chronic abdominal pain.
+
+Endomysial antibody formation (Choice B) is characteristic of celiac disease, which often presents with chronic diarrhea and weight loss secondary to malabsorption. Symptomsmay overlap with IBS, but patients with IBS typically do not suffer from weight loss.
+
+Medication adverse effect (Choice C) is unlikely in this case as neither ginger nor multivitamins are associated with chronic diarrhea. Some patients forget to report over the counter medications such as nonsteroidal anti-inflammatory drugs (NSAIDs) which, when taken in large quantities, can cause microscopic colitis, but this patient does not report a history of NSAID use.
+
+Stimulant laxative use (Choice E) can cause chronic, watery diarrhea in addition to electrolyte derangements such as hypokalemia, but this patient does not report any history of laxative use."
+575,"(qid: 0575) An 82-year-old woman is brought to the emergency department by her family because of progressive loss of appetite and yellowing of the skin over the past 2 months. She has had a 4.5-kg (10-lb) weight loss during this period but says that she feels well. Her temperature is 37¬°C (98.6¬°F), pulse is 100/min, respirations are 12/min, and blood pressure is 110/80 mm Hg while supine and 80/60 mm Hg while sitting. The skin and sclerae appear yellow and dry, and there is tenting over the forehead. The liver edge is palpated 10 cm below the right costal margin. Examination shows no other abnormalities. Laboratory studies show:
+Hemoglobin 10 g/dl Serum
+Bilirubin, total 3.4 mg/dl
+Direct 2.0 mg/dl Alkaline phosphatase 500 U/L AST 75 U/L
+
+Which of the following is the most appropriate next step in diagnosis?
+A) Barium enema
+B) Cholecystography
+C) CT scan of the abdomen
+D) Esophagogastroduodenoscopy
+","(qid: 0575) An 82-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman is brought to the emergency department by her family because of progressive loss of appetite and yellowing of the skin over the past 2 months. She has had a 4.5-kg (10-lb) weight loss during this period but says that she feels well. Her temperature is 37¬°C (98.6¬°F), pulse is 100/min, respirations are 12/min, and blood pressure is 110/80 mm Hg while supine and 80/60 mm Hg while sitting. The skin and sclerae appear yellow and dry, and there is tenting over the forehead. The liver edge is palpated 10 cm below the right costal margin. Examination shows no other abnormalities. Laboratory studies show:
+Hemoglobin 10 g/dl Serum
+Bilirubin, total 3.4 mg/dl
+Direct 2.0 mg/dl Alkaline phosphatase 500 U/L AST 75 U/L
+
+Which of the following is the most appropriate next step in diagnosis?
+A) Barium enema
+B) Cholecystography
+C) CT scan of the abdomen
+D) Esophagogastroduodenoscopy
+",C,"Hepatobiliary obstruction often occurs from malignancy, classically presenting with painless jaundice and weight loss. There are many possible types, for example cholangiocarcinoma, pancreatic carcinoma, and hepatocellular carcinoma. Pancreatic adenocarcinoma commonly occurs in the pancreatic head. It is often initially characterized by nonspecific, vague abdominal discomfort or weight loss. As the mass increases in size, it can lead to the obstruction and dilation of both the common bile duct and main pancreatic duct, referred to as a double-duct sign on imaging. Obstruction of these ducts can result in painless jaundice (prevention of excretion of conjugated bilirubin), exocrine pancreatic insufficiency (impaired digestion and weight loss caused by prevention of excretion of pancreatic digestive enzymes), or pancreatitis (autoactivation of pancreatic enzymes). If the pancreatic adenocarcinoma continues to spread and results in infiltration of surrounding abdominal viscera and/or encasement of adjacent neurovascular structures, this can manifest with severe abdominal pain. The nonspecific nature of pancreatic adenocarcinoma's early symptoms creates a diagnostic dilemma because many benign conditions present similarly. It is frequently asymptomatic until it creates an obstruction, gastrointestinal dysfunction, neural or vascular encasement/invasion, or metastatic disease. Initial diagnosis is made with CT scan of the abdomen, which can elucidate the cause of biliary duct obstruction and the extent of cancer or competing diagnosis (eg, hepatobiliary stricture).","Barium enema (Choice A) is used infrequently in current clinical practice, but it can occasionally help to diagnose malrotation or volvulus. It is not helpful in the diagnosis of upper gastrointestinal obstruction.
+
+Cholecystography (Choice B) is used to evaluate the gallbladder, which, when inflamed or obstructed, presents with right upper quadrant pain, nausea, vomiting, anorexia, or diarrhea. It would not be the first-choice diagnostic test to evaluate for obstructive disease.
+
+Esophagogastroduodenoscopy (Choice D) is used to evaluate the esophagus, stomach, and the duodenum and can diagnose conditions such as peptic ulcer disease, esophagitis, or esophageal cancer among others. This patient does not have features suggestive of these disease processes. If obstruction is occurring at the duodenal papilla, esophagogastroduodenoscopy may disclose the diagnosis, but it does not evaluate the biliary tree proximal to this structure."
+576,"(qid: 0576) A 47-year-old man with a history of alcoholism is brought to the emergency department because of severe abdominal pain, mild nausea, and two episodes of vomiting during the past 16 hours. The pain is located in the epigastrium and radiates straight through to the back. He had a similar episode of pain 2 years ago that was treated with fluid hydration and bowel rest during a 2-day hospital stay, but he left against medical advice. Vital signs are within normal limits except for a temperature of 38.?¬°C (101.?¬°F).Abdominal examination shows slight distention and mild epigastric tenderness. The liver is nontender, and the edge is palpable at the costal margin. The spleen is not palpable. Bowel sounds are hypoactive. Test of the stool for occult blood is negative. Insertion of a nasogastric tube yields green-tinged fluid. His leukocyte count is 18,000/mm 3, and serum amylase activity is 350 U/L. Liver function tests show no abnormalities. Which of the following is the most appropriate next step in management?
+A) X-rays of the abdomen
+B) CT scan of the abdomen
+C) HIDA scan
+D) MRI of the abdomen
+E) Endoscopy
+F) Endoscopic retrograde cholangiopancreatography
+G) Percutaneous aspiration
+","(qid: 0576) A 47-year-old {dem-char-1} {dem-char-2} {dem-char-3} man with a history of alcoholism is brought to the emergency department because of severe abdominal pain, mild nausea, and two episodes of vomiting during the past 16 hours. The pain is located in the epigastrium and radiates straight through to the back. He had a similar episode of pain 2 years ago that was treated with fluid hydration and bowel rest during a 2-day hospital stay, but he left against medical advice. Vital signs are within normal limits except for a temperature of 38.?¬°C (101.?¬°F).Abdominal examination shows slight distention and mild epigastric tenderness. The liver is nontender, and the edge is palpable at the costal margin. The spleen is not palpable. Bowel sounds are hypoactive. Test of the stool for occult blood is negative. Insertion of a nasogastric tube yields green-tinged fluid. His leukocyte count is 18,000/mm 3, and serum amylase activity is 350 U/L. Liver function tests show no abnormalities. Which of the following is the most appropriate next step in management?
+A) X-rays of the abdomen
+B) CT scan of the abdomen
+C) HIDA scan
+D) MRI of the abdomen
+E) Endoscopy
+F) Endoscopic retrograde cholangiopancreatography
+G) Percutaneous aspiration
+",B,"Acute pancreatitis typically presents with epigastric abdominal pain that radiates to the back along with nausea and emesis, often in a patient with a history of gallstones, alcohol use disorder, trauma, hypertriglyceridemia, or hypercalcemia. Laboratory evaluation often discloses increased amylase and lipase concentrations. Treatment of acute uncomplicated pancreatitis is largely supportive and should include intravenous fluids, either normal saline or lactated ringers, and bowel rest in addition to pain control. The associated pain from acute pancreatitis is typically severe and often requires the use of opioid analgesics. Acute pancreatitis can be complicated by necrosis, hemorrhage, abscess, or the formation of pseudocysts. This patient with severe pain, leukocytosis, and fever may have a pancreatic abscess. CT scan of the abdomen is the gold standard for diagnosis of pancreatitis-related complications such as abscess or hemorrhage. Treatment of such conditions may require surgical intervention. Abscess should be treated with antibiotics and source controla.","X-rays of the abdomen (Choice A) are often utilized for the evaluation of acute abdominal pathology (eg, small bowel obstruction), but are insensitive and would not be able to visualize the pancreas or pancreatitis-related complications. HIDA scan (Choice C) is used for the diagnosis of acute cholecystitis. If there is lack of visualization of the gallbladder after administration of radioactive tracer, this suggests cholecystitis with blockage of the cystic duct secondary to an impacted, immobile gallstone. MRI of the abdomen (Choice D) offers high resolution detail of soft tissue structures within the abdomen. It can be used for the evaluation of a variety of intra-abdominal pathologies. However, it is expensive, time consuming, and not always readily available. As a result, CT scan is the initial modality of choice for diagnosis of pancreatitis. Endoscopy (Choice E) would be indicated in cases of upper gastrointestinal bleeding, such as with esophageal varices or peptic ulcer disease, not pancreatitis. Endoscopic retrograde cholangiopancreatography (ERCP) (Choice F) is indicated in gallstone-induced pancreatitis to retrieve the obstructing gallstone. This patient's pancreatitis is more likely caused by alcohol use disorder. Gallstone-induced pancreatitis may show signs of jaundice and increased bilirubin concentrations. Percutaneous aspiration (Choice G) would be inappropriate until further diagnostic imaging is obtained to evaluate for anatomy and complications of pancreatitis. It may be necessary once a diagnosis of pancreatic abscess is confirmed."
+577,"(qid: 0577) A 24-year-old man comes to the office because his fiance had a urinalysis 2 days ago that confirmed the presence of Trichomonas vagina/is. They are sexually active and use condoms inconsistently. He has not had urinary frequency or urgency, painful urination, or dark urine. He has no history of serious illness, takes no medications, and has no known drug allergies. Vital signs are within normal limits. Examination shows no abnormalities. Which of the following is the most appropriate next step in management?
+A) Amoxicillin therapy
+B) Follow-up examination if he becomes symptomatic
+C) Metronidazole therapy
+D) Urethral swab
+E) Urinalysis
+","(qid: 0577) A 24-year-old {dem-char-1} {dem-char-2} {dem-char-3} man comes to the office because his fiance had a urinalysis 2 days ago that confirmed the presence of Trichomonas vagina/is. They are sexually active and use condoms inconsistently. He has not had urinary frequency or urgency, painful urination, or dark urine. He has no history of serious illness, takes no medications, and has no known drug allergies. Vital signs are within normal limits. Examination shows no abnormalities. Which of the following is the most appropriate next step in management?
+A) Amoxicillin therapy
+B) Follow-up examination if he becomes symptomatic
+C) Metronidazole therapy
+D) Urethral swab
+E) Urinalysis
+",C,"Trichomonas vagina/is is an anaerobic, flagellated protozoan that causes vaginal trichomoniasis. Trichomoniasis is a sexually transmitted infection that presents with pruritus, dysuria, dyspareunia, cervical erythema, and abnormal discharge that is described as green, frothy, and malodorous. Trichomoniasis can also lead to overactive bladder (frequency, urgency, urge incontinence). Vaginal pH is often above 4.5, and motile trichomonads can be visualized on wet mount preparation. Men affected by trichomoniasis are often asymptomatic but may transmit the disease while asymptomatic. Therefore, treatment of patients and their sexual partners is necessary for trichomoniasis. Metronidazole is the treatment of choice. As with other sexually transmitted infections, patients should be broadly tested for HIV, syphilis, hepatitis, gonorrhea, and chlamydia because such conditions are often jointly transmitted and may be asymptomatic.","Amoxicillin (Choice A) generally covers gram-positive bacteria, with limited but partial coverage of gram-negative bacteria unless paired with a 13-lactamase inhibitor such as clavulanic acid. It would not appropriately treat Trichomonas vagina/is. Follow-up examination if he becomes symptomatic (Choice B) would not be appropriate. Asymptomatic infections are common, and with confirmed exposure to Trichomonas vagina/is, empiric treatment with metronidazole is necessary. Further diagnostic testing with urethral swab (Choice D) or urinalysis (Choice E) would not be necessary because partners of patients with sexually transmitted infections such as Trichomonas should be treated empirically."
+578,"(qid: 0578) A 72-year-old woman with multiple myeloma is brought to the physician because of a 1-day history of shortness of breath and fatigue. Her respirations are 20/min, and blood pressure is 120/60 mm Hg with no orthostatic changes. The lungs are clear to auscultation. Cardiac examination shows decreased heart sounds. The remainder of the examination shows no abnormalities. Laboratory studies show:
+Serum
+Urea nitrogen 36 mg/dl Creatinine 5.1 mg/dl Urine
+Protein 3+ RBC 0/hpf WBC 0/hpfFractional excretion of sodium >1% Postvoid residual volume 50 ml
+A 24-hour urine collection shows 3.5 g of protein and a creatinine clearance of 10 ml/min. Which of the following is the most likely cause of these laboratory findings?
+A) Bladder outlet obstruction
+B) Congestive heart failure
+C) Interstitial nephritis
+D) Renal parenchymal disease
+E) Renovascular disease
+","(qid: 0578) A 72-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman with multiple myeloma is brought to the physician because of a 1-day history of shortness of breath and fatigue. Her respirations are 20/min, and blood pressure is 120/60 mm Hg with no orthostatic changes. The lungs are clear to auscultation. Cardiac examination shows decreased heart sounds. The remainder of the examination shows no abnormalities. Laboratory studies show:
+Serum
+Urea nitrogen 36 mg/dl Creatinine 5.1 mg/dl Urine
+Protein 3+ RBC 0/hpf WBC 0/hpfFractional excretion of sodium >1% Postvoid residual volume 50 ml
+A 24-hour urine collection shows 3.5 g of protein and a creatinine clearance of 10 ml/min. Which of the following is the most likely cause of these laboratory findings?
+A) Bladder outlet obstruction
+B) Congestive heart failure
+C) Interstitial nephritis
+D) Renal parenchymal disease
+E) Renovascular disease
+",D,"Multiple myeloma is a malignancy caused by the neoplastic proliferation of plasma cells. Neoplastic plasma cells overproduce monoclonal immunoglobulin and light or heavy chains, which may result in acute renal failure caused by protein deposition and damage to the renal tubules. Multiple myeloma results in amyloidosis caused by overproduction and deposition of immunoglobulin chains in the kidneys, heart, brain, and other organs. Renal amyloid deposition on biopsy discloses deposits in the mesangium. Multiple myeloma causes an intrinsic kidney injury, resulting in increased creatinine and proteinuria caused by Bence Jones protein (immunoglobulin light chains) in the urine. Prerenal and intrinsic kidney injury can be distinguished by the fractional excretion of sodium, which is <1 % in prerenal and >1 % in intrinsic kidney injury. Intrinsic parenchymal kidney disease is characterized by an increased fractional excretion of sodium caused by the inability of the proximal tubules to reabsorb sodium. Laboratory evaluation will also disclose a BUN-to-creatinine ratio of less than 20. Treatment is supportive but the patient may require hemodialysis in severe cases.","Bladder outlet obstruction (Choice A) would result in postrenal azotemia from obstruction of the urinary outflow from the bladder. Postrenal azotemia occurs when outflow from the bilateral kidneys is obstructed because of an underlying pathology such as bladder cancer, prostate cancer or hyperplasia, urethral stricture, or bilateral ureteral fibrosis or stricture.
+Congestive heart failure (Choice B) causes acute kidney injury via decreased renal perfusion, which would typically result in a fractional excretion of sodium <1 %.
+Interstitial nephritis (Choice C) results in pyuria (predominantly eosinophils) and azotemia often related to the use of certain classes of medications such as diuretics, penicillin,proton pump inhibitors, nonsteroidal anti-inflammatory drugs, and sulfonamides.
+Renovascular disease (Choice E) such as renal artery stenosis decreases renal blood flow, causing acute as well as chronic kidney injury. Renal artery stenosis is a cause of secondary hypertension related to activation of the renin-angiotensin-aldosterone system. This patient's blood pressure is normal, making renovascular disease less likely. Additionally, the insult occurs prior to the level of the kidney, resulting in fractional excretion of sodium of less than 1 % and a ratio of BUN to creatinine of generally 20: 1 or above."
+579,"(qid: 0579) A 27-year-old man comes to the physician because of a 3-month history of progressive generalized swelling; he has had a 10-kg (22-lb) weight gain during this period. He has a 10-year history of heroin use. He has smoked one pack of cigarettes daily for 13 years. He had hepatitis B 10 years ago and mitral valve endocarditis 2 years ago. An HIV antibody assay was negative 1 month ago. His temperature is 37.4¬°C (99.3¬°F), pulse is 100/min, and blood pressure is 150/110 mm Hg. Examination shows no jugular venous distention. There is bilateral basilar dullness to percussion, and breath sounds are decreased. A grade 2/6 holosystolic murmur is heard at the apex that radiates to the axilla. Examination shows a protuberant abdomen with a fluid wave. There is 3+ pitting edema to the lower abdominal wall. The scrotum is markedly edematous. Laboratory studies show:
+**Serum:**
+- Urea nitrogen: 38 mg/dL
+- Glucose: 154 mg/dL
+- Creatinine: 3 mg/dL
+- Albumin: 2 g/dL
+- Cholesterol: 280 mg/dL
+- Total bilirubin: 1 mg/dL
+- AST: 250 U/L
+- ALT: 35 U/L
+- C3: 57 mg/dL (Normal range: 55–120 mg/dL)
+- C4: 20 mg/dL (Normal range: 20–50 mg/dL)
+
+**Serum:**
+- Hepatitis B surface antigen: negative
+- Hepatitis B surface antibody: positive
+- Hepatitis C antibody: negative
+
+**Urine:**
+- Protein: 4+
+- RBC: 50/hpf
+- WBC: 8/hpf
+- RBC casts: none
+- Granular casts: occasional, - Leukocyte esterase: 2
++The most likely explanation for these findings is nephropathy induced by which of the following?
+A) Cholesterol
+B) Cryoglobulin
+C) Diabetes mellitus
+D) Heroin
+E) HIV infection
+","(qid: 0579) A 27-year-old {dem-char-1} {dem-char-2} {dem-char-3} man comes to the physician because of a 3-month history of progressive generalized swelling; he has had a 10-kg (22-lb) weight gain during this period. He has a 10-year history of heroin use. He has smoked one pack of cigarettes daily for 13 years. He had hepatitis B 10 years ago and mitral valve endocarditis 2 years ago. An HIV antibody assay was negative 1 month ago. His temperature is 37.4¬°C (99.3¬°F), pulse is 100/min, and blood pressure is 150/110 mm Hg. Examination shows no jugular venous distention. There is bilateral basilar dullness to percussion, and breath sounds are decreased. A grade 2/6 holosystolic murmur is heard at the apex that radiates to the axilla. Examination shows a protuberant abdomen with a fluid wave. There is 3+ pitting edema to the lower abdominal wall. The scrotum is markedly edematous. Laboratory studies show:
+**Serum:**
+- Urea nitrogen: 38 mg/dL
+- Glucose: 154 mg/dL
+- Creatinine: 3 mg/dL
+- Albumin: 2 g/dL
+- Cholesterol: 280 mg/dL
+- Total bilirubin: 1 mg/dL
+- AST: 250 U/L
+- ALT: 35 U/L
+- C3: 57 mg/dL (Normal range: 55–120 mg/dL)
+- C4: 20 mg/dL (Normal range: 20–50 mg/dL)
+
+**Serum:**
+- Hepatitis B surface antigen: negative
+- Hepatitis B surface antibody: positive
+- Hepatitis C antibody: negative
+
+**Urine:**
+- Protein: 4+
+- RBC: 50/hpf
+- WBC: 8/hpf
+- RBC casts: none
+- Granular casts: occasional, - Leukocyte esterase: 2
++The most likely explanation for these findings is nephropathy induced by which of the following?
+A) Cholesterol
+B) Cryoglobulin
+C) Diabetes mellitus
+D) Heroin
+E) HIV infection
+",D,"Heroin-induced nephropathy can have a variety of disease characteristics and clinical presentations. Heroin-induced nephropathy is often characterized by focal segmental glomerulosclerosis (FSGS), which is a nephrotic syndrome. Nephrotic syndrome is characterized by edema secondary to excessive proteinuria resulting in hypoalbuminemia and diminished intravascular oncotic pressure. This occurs because of loss of normal size and charge filtration capability of the glomerular capillary and Bowman capsule interface. Patients classically present with dependent edema in the buttocks, lower back, and legs, ascites, foamy or dark-colored urine, hypoalbuminemia, and excessive proteinuria. Heroin can also cause a membranoproliferative glomerulonephritis with immune complex deposition, which is a mixed nephrotic and nephritic syndrome. Patients can present with hematuria, proteinuria, decreased complement concentrations, and renal failure.","Cholesterol (Choice A) does not typically cause acute or chronic kidney disease, proteinuria, or a nephritic syndrome.
+Cryoglobulins (Choice B) are immunoglobulins that precipitate out of serum. Risk factors for excessive cryoglobulin formation include chronic viral infections such as hepatitis B and C viruses, HIV, malaria, and EBV, chronic inflammatory conditions such as systemic lupus erythematosus and Sjogren syndrome, and lymphoproliferative diseases such as multiple myeloma. Chronic hepatitis C virus is the most common infection associated with cryoglobulinemia, which is not seen in this patient with a negative hepatitis C antibody.
+Diabetic mellitus (Choice C) causes nephropathy via nonenzymatic glycosylation of the glomerular basement membrane and efferent arterioles, characteristically presenting as Kimmelstiel-Wilson lesions on light microscopy. This progresses over time in patients with diabetes mellitus, initially beginning as microalbuminuria, which can subsequently progress to macroalbuminuria, and then end-stage renal disease. It is a nephrotic syndrome and would not cause hematuria.
+HIV infection (Choice E) can present with systemic constitutional symptoms during the acute HIV syndrome and following the clinical latent period. This patient does not have features of acute HIV syndrome, and this would be less likely with a negative HIV antibody assay 1 month ago."
+580,"(qid: 0580) One day after undergoing chemotherapy for acute lymphocytic leukemia, a 38-year-old man has an increase in his serum urea nitrogen concentration from 20 mg/dl to 60 mg/dl. Examination of urine sediment shows crystals. Treatment with which of the following drugs prior to chemotherapy is most likely to have prevented this acute renal failure?
+A) Allopurinol
+B) Amoxicillin
+C) Furosemide
+D) Indomethacin
+E) Prednisone
+","(qid: 0580) One day after undergoing chemotherapy for acute lymphocytic leukemia, a 38-year-old {dem-char-1} {dem-char-2} {dem-char-3} man has an increase in his serum urea nitrogen concentration from 20 mg/dl to 60 mg/dl. Examination of urine sediment shows crystals. Treatment with which of the following drugs prior to chemotherapy is most likely to have prevented this acute renal failure?
+A) Allopurinol
+B) Amoxicillin
+C) Furosemide
+D) Indomethacin
+E) Prednisone
+",A,"Tumor lysis syndrome most commonly occurs following chemotherapy initiation for leukemia or lymphoma. The abrupt destruction of many tumor cells results in interstitial and serum release of their contents, manifesting as hyperphosphatemia, hypocalcemia, hyperkalemia, and hyperuricemia. Patients with tumor lysis syndrome can present with fever, nausea, vomiting, diarrhea, lethargy, cardiac dysrhythmias, seizures, tetany, muscle cramps, and syncope and are at risk for sudden death secondary to the electrolyte and metabolic abnormalities. Purine nucleic acids are metabolized to hypoxanthine and xanthine, which are converted to uric acid by xanthine oxidase, resulting in hyperuricemia. Uric acid can crystallize in the renal tubules, leading to nephropathy and acute kidney injury. It can also be deposited in the joints, leading to arthralgias (gout). Treatment of tumor lysis syndrome involves supportive care and correction of electrolyte and metabolic abnormalities. Rasburicase is used to promote the degradation of uric acid and is used in both prevention and treatment of tumor lysis syndrome. Allopurinol decreases the production of uric acid by inhibiting xanthine oxidase. In patients with severe kidney injury and refractory electrolyte derangements, renal replacement therapy with dialysis may be indicated.","Amoxicillin (Choice B) generally covers gram-positive bacteria, with limited but partial coverage of gram-negative bacteria unless paired with a 13-lactamase inhibitor such as clavulanic acid. This patient does not have any signs of bacterial infection, making antibiotic treatment unnecessary.
+Furosemide (Choice C) is used in the treatment of volume overload, which would not be appropriate in this patient who has no signs of lower extremity edema, pulmonary edema, ascites, or other signs of volume overload. Furosemide, a diuretic, would also increase acute kidney injury in this patient by reducing volume status and decreasing renal blood flow.
+Indomethacin (Choice D) and prednisone (Choice E) would be helpful in the treatment of gout but would not help address tumor lysis syndrome and hyperuricemia."
+582,"(qid: 0582) A 62-year-old man comes to the emergency department because of a 12-hour history of pelvic discomfort and an inability to void. During the past year, he has had progressive difficulty initiating a urinary stream and dribbles at the end of urination. He has not received medical care for 20 years. He has no history of serious illness and takes no medications. He is 173 cm (5 ft 8 in) tall and weighs 86 kg (190 lb); BMI is 29 kg/m2. His temperature is 37.1¬°C (98.8¬°F), pulse is 80/min, respirations are 16/min,and blood pressure is 150/90 mm Hg. There is an S4. Abdominal examination shows lower quadrant tenderness. There is 2+ pitting edema. Laboratory studies show:
+Hemoglobin Aa1c 8.9%
+Serum Na+ 140 mEq/L K+ 5.8 mEq/L cI106 mEq/L HCO3 -19 mEq/L Urea nitrogen 52 mg/dl Glucose 250 mg/dl Creatinine 2.9 mg/dl
+
+Which of the following is the most likely cause of this patient's increased serum creatinine concentration?
+A) Bladder outlet obstruction
+B) Crescent formation in the glomeruli
+C) Necrosis of the renal tubules
+D) Protein deposition in the kidneys
+E) Stenosis of the renal arteries
+","(qid: 0582) A 62-year-old {dem-char-1} {dem-char-2} {dem-char-3} man comes to the emergency department because of a 12-hour history of pelvic discomfort and an inability to void. During the past year, he has had progressive difficulty initiating a urinary stream and dribbles at the end of urination. He has not received medical care for 20 years. He has no history of serious illness and takes no medications. He is 173 cm (5 ft 8 in) tall and weighs 86 kg (190 lb); BMI is 29 kg/m2. His temperature is 37.1¬°C (98.8¬°F), pulse is 80/min, respirations are 16/min,and blood pressure is 150/90 mm Hg. There is an S4. Abdominal examination shows lower quadrant tenderness. There is 2+ pitting edema. Laboratory studies show:
+Hemoglobin Aa1c 8.9%
+Serum Na+ 140 mEq/L K+ 5.8 mEq/L cI106 mEq/L HCO3 -19 mEq/L Urea nitrogen 52 mg/dl Glucose 250 mg/dl Creatinine 2.9 mg/dl
+
+Which of the following is the most likely cause of this patient's increased serum creatinine concentration?
+A) Bladder outlet obstruction
+B) Crescent formation in the glomeruli
+C) Necrosis of the renal tubules
+D) Protein deposition in the kidneys
+E) Stenosis of the renal arteries
+",A,"Benign prostatic hyperplasia is a common finding in older men caused by benign enlargement of the prostate surrounding the urethra, often secondary to androgen stimulationa. Risk factors include age, family history, and obesity. Symptoms include difficulty initiating a urine stream with occasional intermittency, terminal dribbling, and nocturia. Failure to empty the bladder can lead to overflow incontinence, as well. Chronic bladder outlet obstruction can lead to hydroureteronephrosis, with the pressure preventing proper creatinine clearance by decreasing renal blood flow and causing glomerular injury. This is the most likely cause of this patient's increased serum creatinine concentration. Medical treatment includes a-adrenergic receptor blockers, such as tamsulosin, and 5a-reductase inhibitors, such as finasteride, whereas surgical options include transurethral resection of the prostate.","Crescent formation in the glomeruli (Choice B) is a marker of glomerular injury and can be seen with inflammatory glomerular injury, such as lupus nephritis and membranoproliferative glomerulonephritis, among other causes of glomerulonephritis. This patient has signs of chronic urinary outflow obstruction, which is the more likely cause of his renal injury than a primary glomerulonephritis.
+
+Necrosis of the renal tubules (Choice C) usually occurs in the setting of hypoxemia, hypotension, and shock. It is associated with decreased perfusion to the kidneys and is diagnosed in the appropriate clinical context with muddy brown casts on urinalysis. This patient has no history of these risk factors, making acute tubular necrosis an unlikely diagnosis.
+
+Protein deposition in the kidneys (Choice D) is seen in amyloidosis, and the rise in creatinine is caused by the protein's interference with proper filtration. Amyloidosis can be inherited, sporadic, or caused by long-standing inflammation. As it is a relatively rare disease, it is a less likely cause of renal dysfunction than benign prostatic hyperplasia in this patient with clear obstructive symptoms.
+
+Stenosis of the renal arteries (Choice E) can lead to renal dysfunction by decreasing the renal blood flow to the kidneys and preventing the proper filtration of creatinine. However,this is associated with significant hypertension because decreased renal blood flow leads to the activation of the renin-angiotensin-aldosterone system, with fluid retention and increased blood pressure. This patient is only mildly hypertensive and more likely has renal dysfunction caused by chronic bladder outlet obstruction."
+583,"(qid: 0583) An asymptomatic 67-year-old woman comes to the physician for a routine follow-up visit. She has a 7-year history of type 2 diabetes mellitus treated with diet. Her fingerstick blood glucose concentrations have ranged between 100 mg/dl and 140 mg/dl during the past 6 months. Her pulse is 80/min and regular, and blood pressure is 118/82 mm Hg. Examination shows no abnormalities. Laboratory studies show:
+Hemoglobin 12 g/dl
+Hemoglobin A1c 7%
+Serum
+Urea nitrogen 18 mg/dl Glucose (fasting) 115 mg/dl Creatinine 0.8 mg/dl Total cholesterol 275 mg/dl
+LDL-cholesterol 190 mg/dl HDL-cholesterol 35 mg/dl Urine microalbumin negative
+Which of the following is the most appropriate intervention to reduce long-term morbidity and mortality in this patient?
+A) Decrease in systolic blood pressure to 100 mm Hg
+B) Reduction of serum LDL-cholesterol concentration
+C) ACE inhibitor therapy
+D) Folic acid supplementation
+E) Glyburide therapy
+","(qid: 0583) An asymptomatic 67-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the physician for a routine follow-up visit. She has a 7-year history of type 2 diabetes mellitus treated with diet. Her fingerstick blood glucose concentrations have ranged between 100 mg/dl and 140 mg/dl during the past 6 months. Her pulse is 80/min and regular, and blood pressure is 118/82 mm Hg. Examination shows no abnormalities. Laboratory studies show:
+Hemoglobin 12 g/dl
+Hemoglobin A1c 7%
+Serum
+Urea nitrogen 18 mg/dl Glucose (fasting) 115 mg/dl Creatinine 0.8 mg/dl Total cholesterol 275 mg/dl
+LDL-cholesterol 190 mg/dl HDL-cholesterol 35 mg/dl Urine microalbumin negative
+Which of the following is the most appropriate intervention to reduce long-term morbidity and mortality in this patient?
+A) Decrease in systolic blood pressure to 100 mm Hg
+B) Reduction of serum LDL-cholesterol concentration
+C) ACE inhibitor therapy
+D) Folic acid supplementation
+E) Glyburide therapy
+",B,"Diabetes mellitus is associated with a variety of complications caused by both microvascular and macrovascular disease. These complications include cardiovascular disease, retinopathy, and nephropathy. Goals for the management of diabetes include treatment of hyperglycemia, blood pressure, and cholesterol to prevent these consequent comorbidities. Recommended targets for fasting blood sugar are 80 to 130 mg/dl (corresponding to a hemoglobin A1c concentration of <7%), whereas those for blood pressure are a systolic blood pressure of less than 130 mm Hg. This patient is meeting both goals. However, her LDL-cholesterol is out of the recommended goal of less than 100 mg/dl. She would therefore benefit from reduction of her serum LDL-cholesterol concentration. In fact, statins are frequently recommended in patients over the age of 40 years with a total cholesterol concentration of 135 mg/dl or greater to reduce the risk for cardiovascular complications.","Decrease in systolic blood pressure to 100 mm Hg (Choice A) would not be appropriate because this patient is meeting a blood pressure goal of less than 130 mm Hg. Trying to lower her blood pressure further would likely result in hypotension and unintended consequences such as orthostasis and syncope.
+ACE inhibitor therapy (Choice C) is often recommended in diabetic patients with hypertension and/or microalbuminuria. In addition to decreasing blood pressure, it also offers a renal protective effect that prevents long-term renal damage. However, this patient is normotensive with no microalbuminuria and lowering her serum LDL-cholesterol concentration will be more important in minimizing her morbidity and mortality.
+Folic acid supplementation (Choice D) is used to treat folic acid deficiency, which can lead to macrocytic anemia and its associated symptoms of fatigue and pallor. Folic acid is not routinely recommended in diabetic patients.
+Glyburide therapy (Choice E) is an antihyperglycemic agent used to treat ongoing hyperglycemia in diabetic patients. This patient's blood sugars and hemoglobin A1c are within goal and attempts to reduce it further may lead to hypoglycemia and its associated complications. Lowering her LDL-cholesterol concentration would be a more appropriate goal."
+584,"(qid: 0584) A 47-year-old woman with end-stage renal disease comes to the office because of a 6-week history of pain in her shoulders and shins. She has received hemodialysis three times weekly for 12 years; she last received hemodialysis 2 days ago. Vital signs are within normal limits. Examination shows a thrill at the site of an arteriovenous fistula in the left forearm and trace pedal edema. X-rays of the clavicle and tibiae show periosteal resorption. Which of the following serum components is most likely responsible for this patient's symptoms?
+A) Calcitonin
+B) Epinephrine
+C) Parathyroid hormone
+D) Prostacyclin
+E) Type A natriuretic peptide
+","(qid: 0584) A 47-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman with end-stage renal disease comes to the office because of a 6-week history of pain in her shoulders and shins. She has received hemodialysis three times weekly for 12 years; she last received hemodialysis 2 days ago. Vital signs are within normal limits. Examination shows a thrill at the site of an arteriovenous fistula in the left forearm and trace pedal edema. X-rays of the clavicle and tibiae show periosteal resorption. Which of the following serum components is most likely responsible for this patient's symptoms?
+A) Calcitonin
+B) Epinephrine
+C) Parathyroid hormone
+D) Prostacyclin
+E) Type A natriuretic peptide
+",C,"Parathyroid hormone (PTH) plays several important roles in calcium and phosphate homeostasis. PTH directly stimulates osteoclastic bone reabsorption and distal convoluted tubular calcium reabsorption and phosphate excretion in the kidney. PTH also stimulates 1 a-hydroxylase in the kidney, which leads to the conversion of stored 25hydroxycholecalciferol to active 1,25-dihydroxycholecalciferol. Once produced, 1,25-dihydroxycholecalciferol stimulates the increased absorption of calcium and phosphate from the intestine. In renal failure, however, the kidney cannot respond to PTH, which breaks the feedback relationship and leads to excessive PTH secretion known as secondary hyperparathyroidism. The hypocalcemia and hyperphosphatemia trigger secretion of PTH, which in turn leads to excess bone reabsorption, known as renal osteodystrophy, with resultant bone pain.","Calcitonin (Choice A) is produced by thyroid parafollicular cells. Its actions generally oppose the effects of PTH and include decreasing bone resorption of calcium, which results in decreased serum calcium concentration. Renal osteodystrophy is caused by excessive PTH, rather than by a defect in the function of calcitonin.
+
+Epinephrine (Choice B) is an adrenergic hormone produced by the adrenal medulla that acts on a-and J3-receptors to increase vasoconstriction and cardiac output. It does not play a role in calcium homeostasis.
+
+Prostacyclin (Choice D) is an eicosanoid derivative of arachidonic acid that plays many roles, including vasodilation and in preventing platelet activation. It does not play a role in calcium homeostasis.
+
+Type A natriuretic peptide (Choice E) is released by the atria in response stretch from increased volume or pressure. It does not lead to hypocalcemia or bone resorption."
+585,"(qid: 0585) Five days after undergoing surgical repair of a middle cerebral artery aneurysm, a 52-year-old man has the onset of progressive lethargy. During his initial postoperative course, he was alert and only had mild right hemiparesis. Currently, he is oriented to person but not to place or time. His temperature is 37.8¬°C (100¬°F), pulse is 75/min, respirations are 20/min, and blood pressure is 130/80 mm Hg. Neurologic examination shows no new focal findings. Laboratory studies show:
+Leukocyte count 7500/mm3 with a normal differential Platelet count 250,000/mm3 Serum
+Na+ 115 mEq/L cI90 mEq/L K+ 3.5 mEq/L Urea nitrogen 20 mg/dL Glucose, nonfasting 130 mg/dL Creatinine 0.9 mg/dL
+A CT scan of the head shows no changes. Which of the following is the most appropriate next step in diagnosis?
+A) Measurement of fasting serum glucose concentration
+B) Measurement of serum cortisol concentration
+C) Measurement of urine electrolyte concentrations
+D) Blood cultures
+E) Intracranial pressure monitoring
+","(qid: 0585) Five days after undergoing surgical repair of a middle cerebral artery aneurysm, a 52-year-old {dem-char-1} {dem-char-2} {dem-char-3} man has the onset of progressive lethargy. During his initial postoperative course, he was alert and only had mild right hemiparesis. Currently, he is oriented to person but not to place or time. His temperature is 37.8¬°C (100¬°F), pulse is 75/min, respirations are 20/min, and blood pressure is 130/80 mm Hg. Neurologic examination shows no new focal findings. Laboratory studies show:
+Leukocyte count 7500/mm3 with a normal differential Platelet count 250,000/mm3 Serum
+Na+ 115 mEq/L cI90 mEq/L K+ 3.5 mEq/L Urea nitrogen 20 mg/dL Glucose, nonfasting 130 mg/dL Creatinine 0.9 mg/dL
+A CT scan of the head shows no changes. Which of the following is the most appropriate next step in diagnosis?
+A) Measurement of fasting serum glucose concentration
+B) Measurement of serum cortisol concentration
+C) Measurement of urine electrolyte concentrations
+D) Blood cultures
+E) Intracranial pressure monitoring
+",C,"This patient's altered mental status (lethargy) is likely caused by hyponatremia secondary to the syndrome of inappropriate secretion of antidiuretic hormone (SIADH). While commonly presenting as a paraneoplastic syndrome, SIADH may also frequently present in association with sepsis, pneumonia, or central nervous system trauma, following surgery (as in this patient), or as an adverse effect of medication. SIADH results in increased aquaporin expression on the luminal surface of renal-collecting duct cells, which increases the membrane permeability to water, leading to inappropriate free water reabsorption, hyponatremia, decreased serum osmolality, and inappropriately increased urine concentration. The diagnosis is confirmed by measurement of serum and urine osmolality and sodium concentration, by confirming euvolemia, and by excluding alternate causes of hyponatremia, such as hypothyroidism and adrenal insufficiency. The management of SIADH-associated hyponatremia involves treatment of the underlying disease, restriction of water intake, and gradual sodium correction. If there are associated severe neurologic symptoms, administration of hypertonic saline may be considered to correct the sodium concentration, although this must be performed with caution because of the risk for central pontine myelinolysis.","Measurement of fasting serum glucose concentration (Choice A) is appropriate in the diagnosis of diabetes mellitus, however, is not necessary in the evaluation of SIADH. Sodium concentrations require correction for glucose because pseudohyponatremia occurs in the setting of hyperglycemia, but not until the glucose concentration exceeds 200 mg/dl. Measurement of serum cortisol concentration (Choice B) is useful during the assessment of hyponatremia to exclude the presence of primary adrenal insufficiency, which presents with hyponatremia, in addition to hypocortisolemia and hypoaldosteronism. However, measuring urine electrolytes is a more useful and essential initial step in the diagnostic evaluation of hyponatremia in absence of other laboratory abnormalities to suggest a primary adrenal process. Blood cultures (Choice D) may be useful when assessing hyponatremia to exclude potential causes of SIADH, such as sepsis. However, this patient's vitals are not concerning for sepsis, and measuring urine electrolytes remains a more useful initial step. Intracranial pressure monitoring (Choice E) is not warranted. Absence of interval changes on CT scan and lack of new focal neurologic findings suggest against recurrent intracranial bleeding or increased pressure. Hyponatremia secondary to SIADH is a more likely cause of this patient's altered mental status."
+586,"(qid: 0586) A 32-year-old woman comes to the physician because of a 3-week history of diffuse joint aches. Over the past 3 months, she has had headache, stiff neck, and progressive numbness, tingling, and weakness of both lower extremities. Neurologic examination shows a mild right facial palsy and mild weakness of the distal lower extremities. Sensation to pinprick and light touch is decreased over the lower extremities; deep tendon reflexes are absent. Which of the following is the most appropriate next step in diagnosis?
+A) Measurement of serum Lyme (Borrelia burgdorfen) antibody concentration
+B) Measurement of serum vitamin Ba1 2 (cobalamin) concentration
+C) Monospot test
+D) PPD skin test
+E) Rapid plasma reagin
+","(qid: 0586) A 32-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the physician because of a 3-week history of diffuse joint aches. Over the past 3 months, she has had headache, stiff neck, and progressive numbness, tingling, and weakness of both lower extremities. Neurologic examination shows a mild right facial palsy and mild weakness of the distal lower extremities. Sensation to pinprick and light touch is decreased over the lower extremities; deep tendon reflexes are absent. Which of the following is the most appropriate next step in diagnosis?
+A) Measurement of serum Lyme (Borrelia burgdorfen) antibody concentration
+B) Measurement of serum vitamin Ba1 2 (cobalamin) concentration
+C) Monospot test
+D) PPD skin test
+E) Rapid plasma reagin
+",A,"Lyme disease is a tick-borne disease caused by Borrelia burgdorferi that is endemic in the Northeastern United States. In its early stages, it causes erythema chronicum migrans, which is an expanding rash with a central ring-like clearing. It can also be associated with a flulike illness and arthralgia. Later stages of Lyme disease are characterized by carditis, atrioventricular heart block, facial nerve palsy (which is often bilateral), mononeuropathy multiplex, motor or sensory radiculoneuropathy, migratory arthralgias, and if left untreated, encephalopathy and chronic arthritis. The diagnosis is confirmed by measurement of serum antibodies to Borrelia burgdorferi. The early stages of Lyme disease can be treated with doxycycline, which acts by preventing the attachment of aminoacyl-tRNA to ribosomes. Side effects of tetracycline antibiotics include gastrointestinal distress, photosensitivity, and in children, discoloration of teeth and inhibition of bone growth, which contraindicates the use of doxycycline in pregnancy. The later stages of Lyme disease that affect the heart or central nervous system are generally treated with parenteral ceftriaxone.","Measurement of serum vitamin Ba12 (cobalamin) concentration (Choice B) is useful in the diagnosis of subacute combined degeneration affecting the spinocerebellar tracts, lateral corticospinal tracts, and dorsal columns. Subacute combined degeneration causes a combination of motor and sensory symptoms including ataxic gait, muscle weakness, paresthesia, and loss of proprioception and vibration sense. This patient's history of arthralgia and facial nerve palsy is not consistent with a diagnosis of subacute combined degeneration.
+
+Monospot testing (Choice C) is useful for the diagnosis of infection with Epstein-Barr virus (EBV). EBV infection causes infectious mononucleosis. While infectious mononucleosis can cause facial nerve palsy, this patient's history of diffuse arthralgias and radiculoneuropathy are more suggestive of Lyme disease.
+
+PPD skin test (Choice D) is useful for the diagnosis of tuberculosis. Tuberculosis does not generally cause facial nerve palsy and is rarely associated with peripheral neuropathy.
+
+Rapid plasma reagin (Choice E) is used to screen for infection with Treponema pallidum, which causes syphilis. Neurosyphilis may present with headache, altered mental status, vision changes, cranial neuropathies, progressive dementia, and possible brain gummas (eg, focal areas of inflammation). Neurosyphilis is not commonly associated with facial nerve palsy or radiculoneuropathy."
+587,"(qid: 0587) A 67-year-old woman is brought to the emergency department 2 hours after the sudden loss of vision in her right eye. She has had severe intermittent headaches over the past week. She has a 3-month history of progressive fatigue and muscle aches that are most severe in her neck and shoulders. During this period, she has had temperatures to 38.3¬°C (100.9¬°F) and a 4.5-kg (10-lb) weight loss. She has a 10-year history of hypertension treated with lisinopril and osteoarthritis of the hips and knees treated with acetaminophen as needed. Her temperature is 38¬°C (100.4¬°F), pulse is 72/min and regular, respirations are 14/min, and blood pressure is 132/84 mm Hg. Funduscopic examination of the right eye shows pallor and edema of the optic disc; there is complete loss of vision. The temporal area and shoulders are tender. The remainder of the examination shows no abnormalities. Laboratory studies show:
+Hematocrit 32%
+Leukocyte count 12,000/mm3 with a normal differential
+Erythrocyte sedimentation rate 110 mm/h
+Serum
+Na+ 136 mEq/L
+cI-104 mEq/L
+K+ 4.2 mEq/L
+HCO3 -24 mEq/L
+Creatinine 0.9 mg/dL
+Which of the following is the most likely underlying mechanism of this patient's symptoms?
+A) Arterial atherosclerosis
+B) Arterial embolization
+C) Arterial inflammation
+D) Arteriovenous malformation
+E) Nerve degeneration
+F) Nerve demyelination
+G) Nerve infiltration
+H) Venous embolization
+","(qid: 0587) A 67-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman is brought to the emergency department 2 hours after the sudden loss of vision in her right eye. She has had severe intermittent headaches over the past week. She has a 3-month history of progressive fatigue and muscle aches that are most severe in her neck and shoulders. During this period, she has had temperatures to 38.3¬°C (100.9¬°F) and a 4.5-kg (10-lb) weight loss. She has a 10-year history of hypertension treated with lisinopril and osteoarthritis of the hips and knees treated with acetaminophen as needed. Her temperature is 38¬°C (100.4¬°F), pulse is 72/min and regular, respirations are 14/min, and blood pressure is 132/84 mm Hg. Funduscopic examination of the right eye shows pallor and edema of the optic disc; there is complete loss of vision. The temporal area and shoulders are tender. The remainder of the examination shows no abnormalities. Laboratory studies show:
+Hematocrit 32%
+Leukocyte count 12,000/mm3 with a normal differential
+Erythrocyte sedimentation rate 110 mm/h
+Serum
+Na+ 136 mEq/L
+cI-104 mEq/L
+K+ 4.2 mEq/L
+HCO3 -24 mEq/L
+Creatinine 0.9 mg/dL
+Which of the following is the most likely underlying mechanism of this patient's symptoms?
+A) Arterial atherosclerosis
+B) Arterial embolization
+C) Arterial inflammation
+D) Arteriovenous malformation
+E) Nerve degeneration
+F) Nerve demyelination
+G) Nerve infiltration
+H) Venous embolization
+",C,"This patient's presenting findings of abrupt-onset monocular vision loss, headache, stiffness, and temporal tenderness are consistent with a diagnosis of giant cell arteritis (GCA).
+GCA is an autoimmune inflammatory vasculitis of medium and large vessels. Classic findings include systemic symptoms of fever, chills, and weight loss, headache, history of vision loss, jaw claudication, tenderness of the scalp, and pale optic disc edema. New headaches in an elderly patient should raise suspicion for GCA. GCA frequently occurs in association with polymyalgia rheumatica (PMR), which is characterized by stiffness of proximal muscles. Laboratory evaluation discloses increased inflammatory markers, including erythrocyte sedimentation rate (ESR) and C-reactive protein, and thrombocytosis. GCA is characterized by a predilection for the vessels of the head and neck, often affects the ophthalmic artery, and can result in sudden, ischemic damage to the retina. Once vision loss occurs, it is not reversible and is commonly followed by vision loss in the contralateral eye within days or weeks. The diagnosis is confirmed with biopsy of the temporal artery disclosing granulomatous vasculitis. Treatment with high-dose corticosteroids should occur immediately once GCA is suspected to preserve vision. Corticosteroid treatment does not generally compromise biopsy results if the biopsy is performed within 1 to 2 weeks.","Arterial atherosclerosis (Choice A) and arterial embolization (Choice B), typically from a carotid arterial plaque, may contribute to central retinal artery occlusion (CRAO), which presents with sudden, painless, monocular vision loss, relative afferent pupillary defect, retinal whitening with a cherry red spot, and retinal arteriolar narrowing. While CRAO commonly occurs because of arterial embolization from a carotid plaque, this patient's fever, fatigue, weight loss, myalgia, headache, and increased ESR suggest ophthalmic arterial occlusion caused by GCA as a more likely cause.
+Arteriovenous malformation (Choice D) may lead to vision loss in patients with Wyburn-Mason syndrome, also known as Bonnet-Dechaume-Blanc syndrome, characterized by arteriovenous malformations of the retina and brain, as well as facial nevi or angiomas. Retinal vessels appear dilated and tortuous. This rare condition does not present with constitutional symptoms or increased ESR.
+Nerve degeneration (Choice E) occurs in the setting of glaucoma, which is characterized by slowly progressive optic nerve damage in the setting of increased intraocular pressure. The vision loss caused by glaucoma is insidious and characterized by initial peripheral vision loss with slow encroachment on central vision. Glaucoma does not generally present with extraocular symptoms.
+Nerve demyelination (Choice F) may lead to optic neuritis. Optic neuritis typically presents with dull pain exacerbated by eye movement, poor visual acuity, and an afferent pupillary defect. It commonly presents in young or middle-aged women and is not associated with constitutional symptoms, PMR, or increased ESR.
+Nerve infiltration (Coice G) may be seen in settings of amyloidosis, sarcoidosis, hypothyroidism, malignancy, and similar conditions in which proteins are deposited in tissues or abnormal fibroblastic deposition occurs.
+Venous embolization (Choice H) may rarely lead to central retinal artery occlusion in the setting of a patent foramen ovale. However, this patient's accompanying constitutional symptoms, headache, myalgia, and increased ESR are more suggestive of GCA."
+588,"(qid: 0588) A 78-year-old woman is admitted to the hospital because of a 3-day history of dizziness and weakness. She was diagnosed with chronic lymphocytic leukemia 2 years ago. Since then, she has had a 13.6-kg (30-lb) weight loss. She lives independently. She does not smoke cigarettes or drink alcohol. On admission, she appears confused and somewhat anxious. She is oriented to person but not to place or time. Her temperature is 36.4¬°C (97.5¬°F), pulse is 90/min, respirations are 12/min, and blood pressure is 110/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. Physical examination shows lateral nystagmus and pallor. No rashes are noted. Cardiac examination shows a grade 2/6 systolic murmur heard best over the lower left sternal border. Romberg test is abnormal. Finger-nose testing is negative. Muscle strength is 4/5 throughout. Deep tendon reflexes are normal. She has an ataxic gait. Supplementation with which of the following is most likely to have prevented this patient's condition?
+A) Folic acid
+B) Vitamin B1 (thiamine)
+C) Vitamin Ba12 (cyanocobalamin)
+D) Vitamin C
+E) Vitamin D
+","(qid: 0588) A 78-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman is admitted to the hospital because of a 3-day history of dizziness and weakness. She was diagnosed with chronic lymphocytic leukemia 2 years ago. Since then, she has had a 13.6-kg (30-lb) weight loss. She lives independently. She does not smoke cigarettes or drink alcohol. On admission, she appears confused and somewhat anxious. She is oriented to person but not to place or time. Her temperature is 36.4¬°C (97.5¬°F), pulse is 90/min, respirations are 12/min, and blood pressure is 110/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. Physical examination shows lateral nystagmus and pallor. No rashes are noted. Cardiac examination shows a grade 2/6 systolic murmur heard best over the lower left sternal border. Romberg test is abnormal. Finger-nose testing is negative. Muscle strength is 4/5 throughout. Deep tendon reflexes are normal. She has an ataxic gait. Supplementation with which of the following is most likely to have prevented this patient's condition?
+A) Folic acid
+B) Vitamin B1 (thiamine)
+C) Vitamin Ba12 (cyanocobalamin)
+D) Vitamin C
+E) Vitamin D
+",B,"Wernicke's encephalopathy is caused by a deficiency of vitamin B 1 (thiamine), most commonly in patients with alcohol use disorder, anorexia nervosa, malignancy, or hyperemesis of pregnancy, among others. It presents classically with encephalopathy, ataxia, and oculomotor dysfunction (eg, nystagmus). This patient's presentation is most consistent with Wernicke's encephalopathy in the setting of chronic malnutrition as evidenced by her recent weight loss in the setting of systemic malignancy. Prevention of Wernicke's encephalopathy includes thiamine supplementation, whereas treatment consists of intravenous thiamine administration. If untreated, it can lead to coma and death.","Folic acid (Choice A) and vitamin Ba12 (cyanocobalamin) (Choice C) deficiencies lead to macrocytic anemia, with associated fatigue, pallor, and shortness of breath. Deficiencies of cyanocobalamin can also lead to glossitis, ataxia, paresthesias, weakness, and cognitive changes. This patient has ocular findings in addition to encephalopathy and gait ataxia in the setting of recent malnutrition, making Wernicke's encephalopathy a more likely diagnosis.
+
+Vitamin C (Choice D) deficiency leads to scurvy, which presents with easy bruising, gingivitis, arthralgias, edema, and anemia. It occurs most commonly in patients with drug and alcohol use disorders or in those with restrictive diets. This patient's ataxia, encephalopathy, and oculomotor dysfunction would not have been prevented by Vitamin C supplementation.
+
+Vitamin D (Choice E) is a fat-soluble vitamin, so deficiencies are uncommon. However, when present, it presents with hypocalcemia and hypophosphatemia because of its role in gastrointestinal absorption and renal reabsorption of calcium and phosphate. Osteopenia, osteoporosis, and osteomalacia result in chronic deficiency."
+589,"(qid: 0589) A 38-year-old man with nephrotic syndrome due to minimal change disease becomes weak and oliguric over a 4-day period. Treatment includes sodium restriction, prednisone, and furosemide. His blood pressure is 110/70 mm Hg while supine and 90/60 mm Hg while sitting. Examination shows no signs of systemic illness and no edema. Urinalysis shows 4+ protein, no blood, and 5--10 WBC/hpf. Which of the following is the most likely cause of the patient's weakness and oliguria?
+A) Acute interstitial nephritis
+B) Acute ischemic renal failure
+C) Acute renal vein thrombosis
+D) Intravascular volume depletion
+E) Worsening of the nephrotic syndrome
+","(qid: 0589) A 38-year-old {dem-char-1} {dem-char-2} {dem-char-3} man with nephrotic syndrome due to minimal change disease becomes weak and oliguric over a 4-day period. Treatment includes sodium restriction, prednisone, and furosemide. His blood pressure is 110/70 mm Hg while supine and 90/60 mm Hg while sitting. Examination shows no signs of systemic illness and no edema. Urinalysis shows 4+ protein, no blood, and 5--10 WBC/hpf. Which of the following is the most likely cause of the patient's weakness and oliguria?
+A) Acute interstitial nephritis
+B) Acute ischemic renal failure
+C) Acute renal vein thrombosis
+D) Intravascular volume depletion
+E) Worsening of the nephrotic syndrome
+",D,"Orthostatic hypotension is defined as a reduction of 20 mm Hg or more in systolic pressure or a reduction of 10 mm Hg or more in diastolic pressure when moving from a supine to a standing position. Typically, the decreased preload that occurs when a patient moves to a standing position is compensated for by increased sympathetic drive, raising heart rate, and increasing vascular tone, to prevent consequent hypotension from decreased preload and stroke volume. However, this mechanism can fail to provide adequate compensation in the setting of hypovolemia, autonomic dysfunction, and neurodegenerative disorders. Symptoms of orthostatic hypotension include lightheadedness, blurring of the visual fields, and occasionally syncope. This patient has orthostatic hypotension after diuresis, which makes intravascular volume depletion the most likely cause of this patient's oliguria and weakness.","Acute interstitial nephritis (Choice A) is usually caused by a reaction to medication, infection, or a systemic illness such as systemic lupus erythematosus. It presents with oliguria, rash, fever, and eosinophilia, with a urine specimen showing eosinophiluria, white cell casts, and occasional hematuria. Acute interstitial nephritis would not explain this patient's orthostatic hypotension.
+
+Acute ischemic renal failure (Choice B) is often seen in shock syndromes caused by decreased renal blood flow leading to tubular injury. Characteristically, this presents with worsening renal function associated with muddy brown casts on urinalysis. This patient has orthostatic hypotension and proteinuria, which would not be classic for acute ischemic renal failure.
+
+Acute renal vein thrombosis (Choice C) most commonly presents with flank pain and hematuria, often in patients who are hypercoagulable. It is a rare complication of nephrotic syndrome but does not cause proteinuria on its own. This patient has significant proteinuria associated with oliguria and orthostatic hypotension, making intravascular volume depletion a more likely diagnosis.
+
+Worsening of the nephrotic syndrome (Choice E) can cause an acute kidney injury with proteinuria, hypoalbuminemia, and peripheral edema. It would be unlikely to cause orthostatic hypotension in the absence of diuresis, as seen in this patient."
+590,"(qid: 0590) A 23-year-old man with type 1 diabetes mellitus is admitted to the hospital because of a 2-day history of nausea, vomiting, and diarrhea. He also has had increased thirst and urination. During the past 2 hours, he has become tired and wants to sleep. He has not taken insulin in 24 hours. His temperature is 37.5¬°C (99.5¬°F), pulse is 102/min, respirations are 26/min, and blood pressure is 100/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 100%. Skin examination shows no abnormalities. The lungs are clear to auscultation. Heart sounds are normal. Bowel sounds are decreased; there is no organomegaly or tenderness. On neurologic examination, the patient is somnolent but easily aroused and fully oriented. Laboratory studies show:
+Hemoglobin 15.5 g/dL
+Hematocrit 50%
+Leukocyte count 13,500/mm3
+Segmented neutrophils 70%
+Lymphocytes 30%
+
+Serum
+Na+ 130 mEq/L K+ 5.8 mEq/L Cl- 94 mEq/L HCO3- 10 mEq/L Urea nitrogen 28 mg/dL Glucose 600 mg/dL Creatinine 1.2 mg/dL
+
+Arterial blood gas analysis on room air shows:
+pH 7.13
+Pco2 23 mm Hg
+Po2 98 mm Hg
+
+An x-ray of the chest shows no abnormalities. An ECG shows sinus tachycardia. This patient most likely has which of the following acid-base disorders?
+A) Anion gap metabolic acidosis
+B) Anion gap metabolic acidosis and metabolic alkalosis
+C) Anion gap metabolic acidosis and respiratory acidosis
+D) Respiratory acidosis and metabolic alkalosis
+E) Respiratory alkalosis and metabolic acidosis
+","(qid: 0590) A 23-year-old {dem-char-1} {dem-char-2} {dem-char-3} man with type 1 diabetes mellitus is admitted to the hospital because of a 2-day history of nausea, vomiting, and diarrhea. He also has had increased thirst and urination. During the past 2 hours, he has become tired and wants to sleep. He has not taken insulin in 24 hours. His temperature is 37.5¬°C (99.5¬°F), pulse is 102/min, respirations are 26/min, and blood pressure is 100/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 100%. Skin examination shows no abnormalities. The lungs are clear to auscultation. Heart sounds are normal. Bowel sounds are decreased; there is no organomegaly or tenderness. On neurologic examination, the patient is somnolent but easily aroused and fully oriented. Laboratory studies show:
+Hemoglobin 15.5 g/dL
+Hematocrit 50%
+Leukocyte count 13,500/mm3
+Segmented neutrophils 70%
+Lymphocytes 30%
+
+Serum
+Na+ 130 mEq/L K+ 5.8 mEq/L Cl- 94 mEq/L HCO3- 10 mEq/L Urea nitrogen 28 mg/dL Glucose 600 mg/dL Creatinine 1.2 mg/dL
+
+Arterial blood gas analysis on room air shows:
+pH 7.13
+Pco2 23 mm Hg
+Po2 98 mm Hg
+
+An x-ray of the chest shows no abnormalities. An ECG shows sinus tachycardia. This patient most likely has which of the following acid-base disorders?
+A) Anion gap metabolic acidosis
+B) Anion gap metabolic acidosis and metabolic alkalosis
+C) Anion gap metabolic acidosis and respiratory acidosis
+D) Respiratory acidosis and metabolic alkalosis
+E) Respiratory alkalosis and metabolic acidosis
+",A,"This patient's laboratory and arterial blood gas evaluation discloses an anion gap metabolic acidosis, identified by a pH of less than 7.35 (acidemia) with decreased HCO3- concentration and decreased Pco2 concentration. Metabolic acidosis describes a derangement involving excess acid and is subdivided into anion gap and non-anion gap categories. Anion gap (Na+ -[Cl-+ HCO3-]) calculates unmeasured anions in serum which are contributing to acidity (eg, lactate or ketones), whereas non-anion gap acidosis generally results from excess supply of protons or chloride, retention of protons or chloride by the kidney, or failure to secrete bicarbonate buffers. This patient's anion gap metabolic acidosis is most likely caused by diabetic ketoacidosis given his history of missed dosing of insulin and symptoms of nausea, vomiting, diarrhea, hemoconcentration, and increased blood glucose concentration. Pathophysiology includes a relative absence of insulin, which prevents cells from utilizing glucose, leading to hyperglycemia, polyuria, and polydipsia, in addition to ketone production. Treatment includes intravenous hydration, insulin therapy, and electrolyte correction. Other common causes of anion gap metabolic acidosis include lactic acidosis, uremia, ethylene glycol or methanol ingestion, and salicylate poisoning. Winter's formula (Pco2 = 1.5 x serum HCO3- + 8 ¬± 2) can be used to determine if there is appropriate compensation, or if a secondary acid-base deficit is also present.","Anion gap metabolic acidosis and metabolic alkalosis (Choice B) can be determined by the delta anion gap/delta HCO3- ratio. This is calculated using the following formula: (Patient's anion gap -normal anion gap)/ (normal HCO3--patient's HCO3-). A delta/delta ratio below 1 indicates a concomitant non-gap metabolic acidosis, whereas a ratio above 2 typically indicates a concomitant metabolic alkalosis. This patient has an anion gap of 26, with a delta/delta ratio of approximately 1, which indicates that he has a single acid-base disorder.
+
+Anion gap metabolic acidosis and respiratory acidosis (Choice C) would be indicated by an acidemia with decreased HCO3- concentration and increased Pco2 concentration. This patient's Pco2 concentration was decreased, arguing against respiratory acidosis. There is some degree of respiratory compensation with metabolic acidosis, with Winters formula being used to determine if appropriate respiratory compensation is occurring. This patient's Winters formula yields an estimated Pco2 of 21-25 mm Hg, and his is 23 mm Hg, indicating appropriate respiratory compensation without a secondary respiratory acidosis, which would be marked by a Pco2 above 25 mm Hg.
+
+Respiratory acidosis and metabolic alkalosis (Choice D) would be indicated by a increased Pco2 and increased HCO3-. A primary respiratory acidosis is compensated for by changes in the patient's bicarbonate concentrations. However, both this patient's Pco2 and HCO3-concentrations are decreased, indicating a primary metabolic acidosis.
+
+Respiratory alkalosis and metabolic acidosis (Choice E) would be indicated by a decreased Pco2 and decreased HCO3-. A primary respiratory alkalosis would be compensated for by changes in the patient's bicarbonate concentrations. However, compensation will not correct the pH to a normal concentration, and this patient is acidotic rather than alkalotic."
+591,"(qid: 0591) A 72-year-old woman comes to the emergency department because of an 8-hour history of severe, ""crushing,"" left-sided chest pain that radiates to her neck and arms. She has no history of similar chest pain. During this time, she also has had shortness of breath and dizziness. She has hypertension and hyperlipidemia. She has no known allergies. Her medications are hydrochlorothiazide and lovastatin. She appears uncomfortable and in moderate distress. Her pulse is 120/min, and blood pressure is 98/60 mm Hg. Pulse oximetry on 6 Umin of oxygen by nasal cannula shows an oxygen saturation of 92%. Jugular venous pressure is 10 cm H20 (N=5-9). Carotid pulses are 2+ and equal with normal upstrokes. Crackles are heard halfway up the lungs bilaterally. Cardiac examination shows an S3 gallop. The abdomen is nontender. There is 1 + edema to the mid calf bilaterally. Which of the following is the most likely diagnosis?
+A) Acute aortic insufficiency
+B) Acute papillary muscle rupture
+C) Cardiac tamponade
+D) Cardiogenic shock
+E) Hypovolemia
+","(qid: 0591) A 72-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the emergency department because of an 8-hour history of severe, ""crushing,"" left-sided chest pain that radiates to her neck and arms. She has no history of similar chest pain. During this time, she also has had shortness of breath and dizziness. She has hypertension and hyperlipidemia. She has no known allergies. Her medications are hydrochlorothiazide and lovastatin. She appears uncomfortable and in moderate distress. Her pulse is 120/min, and blood pressure is 98/60 mm Hg. Pulse oximetry on 6 Umin of oxygen by nasal cannula shows an oxygen saturation of 92%. Jugular venous pressure is 10 cm H20 (N=5-9). Carotid pulses are 2+ and equal with normal upstrokes. Crackles are heard halfway up the lungs bilaterally. Cardiac examination shows an S3 gallop. The abdomen is nontender. There is 1 + edema to the mid calf bilaterally. Which of the following is the most likely diagnosis?
+A) Acute aortic insufficiency
+B) Acute papillary muscle rupture
+C) Cardiac tamponade
+D) Cardiogenic shock
+E) Hypovolemia
+",D,"This patient's presentation is most consistent with cardiogenic shock after a myocardial infarction (Ml). Crushing chest pain with radiation to the neck and arms, dyspnea, and risk factors for cardiac disease (eg, hypertension and hyperlipidemia) indicate that this patient is most likely having a Ml. During and following an Ml, cardiogenic shock may develop depending on the amount of cardiac muscle that is infarcted. If a significant portion of the left ventricle is infarcted, cardiac output will fall secondary to a decrease in ejection fraction and stroke volume. To compensate, heart rate will increase to try to maintain blood pressure. However, the inability of the heart to pump blood forward causes dilation of the left ventricle (with an S3 gallop) and pooling of blood with increased pressure in pulmonary veins and capillaries, leading to pulmonary edema with consequent crackles and hypoxemia. Further fluid backup into right-sided circulation leads to peripheral edema and increased jugular venous pressure. Treatment includes the initiation of inotropic agents to augment cardiac output and treatment of the underlying condition, such as the placement of a cardiac stent in this patient. Mechanical support (eg, intraaortic balloon pump, indwelling
+lmpella device) may be required to take over mechanical function if medical therapy and revascularization are unsuccessful.","Acute aortic insufficiency (Choice A) can lead to symptoms like those of cardiogenic shock, with a dilated left ventricle, pulmonary edema, and peripheral edema. However, acute aortic insufficiency is not a common complication of myocardial infarction. Additionally, it would be associated with a diastolic murmur heard at the upper sternal border, which is not present in this patient.
+
+Acute papillary muscle rupture (Choice B) can be associated with myocardial infarction and leads to acute mitral regurgitation with subsequent significant pulmonary edema. However, this finding would be associated with a harsh systolic murmur on examination, rather than an S3 gallop as seen in this patient.
+
+Cardiac tamponade (Choice C) leads to an obstructive shock caused by a large pericardia! effusion that prevents the necessary amount of preload from entering the heart. This decreases the output of the heart and leads to a similar clinical picture as cardiogenic shock. Cardiac tamponade is classically associated with muffled heart sounds, increased jugular venous pressure, and hypotension. This patient has an S3 gallop, rather than muffled heart sounds.
+
+Hypovolemia (Choice E), when significant, can lead to shock secondary to decreased cardiac output. However, it is not a common complication of myocardial infarction and would not be expected to present with signs of volume overload, such as crackles and peripheral edema."
+592,"(qid: 0592) A 67-year-old man comes to the physician 6 hours after the onset of fever and lethargy. He has had dysuria for 3 days. He takes no medications. He is somnolent. His temperature is 38.9¬°C (102¬°F), pulse is 106/min, respirations are 36/min, and blood pressure is 88/60 mm Hg. The mucous membranes are dry, and the neck is supple. The lungs are clear to auscultation and percussion. Laboratory studies show:
+Hematocrit 32%
+Leukocyte count 4800/mm3 Segmented neutrophils 67% Bands 22%
+Platelet count 70,000/mm3
+Urinalysis shows numerous leukocytes and gram-negative bacilli. An x-ray of the chest shows no abnormalities. Blood cultures are ordered. In addition to intravenous administration of 0.9% saline, which of the following should be administered intravenously?
+A) Antibiotics
+B) Endotoxin antibody
+C) Methylprednisolone
+D) Platelets
+E) Whole blood
+","(qid: 0592) A 67-year-old {dem-char-1} {dem-char-2} {dem-char-3} man comes to the physician 6 hours after the onset of fever and lethargy. He has had dysuria for 3 days. He takes no medications. He is somnolent. His temperature is 38.9¬°C (102¬°F), pulse is 106/min, respirations are 36/min, and blood pressure is 88/60 mm Hg. The mucous membranes are dry, and the neck is supple. The lungs are clear to auscultation and percussion. Laboratory studies show:
+Hematocrit 32%
+Leukocyte count 4800/mm3 Segmented neutrophils 67% Bands 22%
+Platelet count 70,000/mm3
+Urinalysis shows numerous leukocytes and gram-negative bacilli. An x-ray of the chest shows no abnormalities. Blood cultures are ordered. In addition to intravenous administration of 0.9% saline, which of the following should be administered intravenously?
+A) Antibiotics
+B) Endotoxin antibody
+C) Methylprednisolone
+D) Platelets
+E) Whole blood
+",A,"Sepsis is a marked inflammatory response to a known or presumed infection. If left untreated, it can progress to septic shock with profound vasodilation and decreased organ perfusion, leading to demand ischemia, lactic acidosis, encephalopathy, acute kidney injury, and transaminitis. Sepsis classically presents with leukocytosis with a neutrophilic predominance, tachycardia, fever, and signs of the underlying infection, whereas septic shock typically presents with these symptoms plus lethargy, hypotension, and an increased lactate. Common causes of septic shock include urinary tract infections, pneumonia, and intra-abdominal abscesses. This patient has a urinary tract infection, as evidenced by gram-negative bacilli on urinalysis and his symptoms of dysuria, which is leading to septic shock. Prompt treatment of sepsis is needed to prevent mortality, with treatment including hemodynamic support with fluid resuscitation and vasopressors to maintain organ perfusion, antibiotic therapy, and source control. It is pertinent that this patient receives intravenous antibiotics as soon as possible to prevent worsening of his septic shock.","Endotoxin antibody (Choice B) is not used clinically in the treatment of infections. Endotoxin is a component of the cell wall of gram-negative bacteria that is recognized by the host and leads to an inflammatory response. While endotoxin can contribute to sepsis and cause thrombocytopenia, neutralization of the endotoxin is not used to treat septic shock.
+
+Methylprednisolone (Choice C) is used in the treatment of inflammatory conditions, such as asthma or COPD exacerbations. It is relatively contraindicated in active infections because it inhibits the host's immune response to infection. Steroids are indicated in infections in cases of relative or absolute adrenal insufficiency, and hydrocortisone is often used for this purpose in refractory septic shock, however this would follow the administration of fluids, vasopressors, and antibiotics, not before.
+
+Platelets (Choice D) are not indicated in this patient. Gram-negative infections can lead to thrombocytopenia. However, platelet transfusion is not routinely recommended until platelet counts fall below 10,000/mm3 unless the patient is bleeding.
+
+Whole blood (Choice E) is rarely used in clinical medicine. When used, it is most common during massive transfusion protocol to provide a patient with a balanced transfusion of red blood cells, platelets, and plasma in the setting of traumatic hemorrhage. This patient is only mildly anemic and thrombocytopenic and would not benefit from whole blood transfusion."
+594,"(qid: 0594) A 42-year-old woman comes to the office for a routine health maintenance examination. She has no history of serious illness and takes no medications. There is no family history of cancer. Physical examination, including pelvic examination, shows no abnormalities. The patient asks the physician about testing for ovarian cancer. Her friend was recently diagnosed with ovarian cancer, and the patient heard about a blood test to detect it. Research on this test shows a likelihood ratio of 1.0. Which of the following is the most appropriate physician response?
+A) If the test results are negative, you do not have cancer. A positive result is inconclusive.
+B) If the test results are positive, you have cancer. If they are negative, you do not have cancer.
+C) If the test results are positive, you have cancer. A negative result is inconclusive.
+D) The test can tell us if further testing is indicated for ovarian cancer.
+E) This test does not appear to be useful for diagnosing ovarian cancer.
+","(qid: 0594) A 42-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman comes to the office for a routine health maintenance examination. She has no history of serious illness and takes no medications. There is no family history of cancer. Physical examination, including pelvic examination, shows no abnormalities. The patient asks the physician about testing for ovarian cancer. Her friend was recently diagnosed with ovarian cancer, and the patient heard about a blood test to detect it. Research on this test shows a likelihood ratio of 1.0. Which of the following is the most appropriate physician response?
+A) If the test results are negative, you do not have cancer. A positive result is inconclusive.
+B) If the test results are positive, you have cancer. If they are negative, you do not have cancer.
+C) If the test results are positive, you have cancer. A negative result is inconclusive.
+D) The test can tell us if further testing is indicated for ovarian cancer.
+E) This test does not appear to be useful for diagnosing ovarian cancer.
+",E,"A positive likelihood ratio is the likelihood that a patient with the disease will have a positive test result compared to the likelihood that a patient without the disease will have a positive test result. It can be calculated by dividing the sensitivity by (1-specificity). In contrast, the negative likelihood ratio is the likelihood that a patient with the disease will have a negative test result compared to the likelihood that a patient without the disease will have a negative test result. It can be calculated by dividing (1-sensitivity) by specificity. A likelihood ratio greater than one increases the post-test probability, whereas a ratio less than one decreases the post-test probability. In this case, a likelihood ratio of 1.0 indicates that the test would neither increase nor decrease the post-test probability, meaning that it would not be useful in diagnosing ovarian cancer in this patient.","If the test results are negative, you do not have cancer. A positive result is inconclusive,"" (Choice A) would be an appropriate response for a test that was 100% sensitive. Sensitivity refers to the ability of a test to correctly identify those with the disease, such that a negative test can accurately exclude the diagnosis.
+""If the test results are positive, you have cancer. If they are negative, you do not have cancer,"" (Choice B) would be the case for a test that was 100% sensitive and specific.
+Sensitivity refers to the ability of a test to correctly identify those with the disease, whereas specificity refers to the ability of a test to correctly identify those without the disease.
+Unfortunately, no test is 100% sensitive and specific.
+""If the test results are positive, you have cancer. A negative test result is inconclusive,"" (Choice C) would be an accurate statement for a test that has 100% specificity. Specificity refers to the ability of a test to correctly identify those without the disease, such that a positive test can accurately identify the diagnosis.
+""The test can tell us if further testing is indicated for ovarian cancer,"" (Choice D) may be an appropriate response if this patient had an increased risk for ovarian cancer and the test had a likelihood ratio greater than one. She has a low pretest probability of ovarian cancer given her lack of symptoms and family history, as well as age, but if she were to have greater pretest probability, a positive result on a test with a high likelihood ratio could indicate the need for further testing."
+595,"(qid: 0595) A 77-year-old woman with a 2-year history of stage IV ovarian cancer is brought to the physician by her children for consultation. Initially, she underwent cytoreduction and combination chemotherapy with carboplatin and paclitaxel. Six months after completing chemotherapy, testing showed that the cancer had recurred. She now has metastatic disease to the spine despite three different chemotherapy regimens (doxorubicin, topotecan, and cyclophosphamide) over the past year. She has been confined to bed. She appears extremely ill and is in respiratory distress. She is alert and oriented and rates her pain as a 10 on a 10-point scale. Examination shows large supraclavicular lymph nodes and bilateral pleural effusions. Abdominal examination shows distention with ascites and a large, fixed ventral mass. She does not want further cancer therapy, but her family demands further treatment. Which of the following is the most appropriate next step?
+A) Consult with the hospital ethics committee
+B) Obtain psychiatric assessment
+C) Intravenous morphine therapy
+D) Intravenous chemotherapy
+E) Operative cytoreduction
+","(qid: 0595) A 77-year-old {dem-char-1} {dem-char-2} {dem-char-3} woman with a 2-year history of stage IV ovarian cancer is brought to the physician by her children for consultation. Initially, she underwent cytoreduction and combination chemotherapy with carboplatin and paclitaxel. Six months after completing chemotherapy, testing showed that the cancer had recurred. She now has metastatic disease to the spine despite three different chemotherapy regimens (doxorubicin, topotecan, and cyclophosphamide) over the past year. She has been confined to bed. She appears extremely ill and is in respiratory distress. She is alert and oriented and rates her pain as a 10 on a 10-point scale. Examination shows large supraclavicular lymph nodes and bilateral pleural effusions. Abdominal examination shows distention with ascites and a large, fixed ventral mass. She does not want further cancer therapy, but her family demands further treatment. Which of the following is the most appropriate next step?
+A) Consult with the hospital ethics committee
+B) Obtain psychiatric assessment
+C) Intravenous morphine therapy
+D) Intravenous chemotherapy
+E) Operative cytoreduction
+",C,"One of the core tenets of medical care is patient autonomy, or a patient's right to make decisions for themselves. This patient has terminal metastatic cancer and has failed multiple treatment options. At this point, transitioning to a more comfort-focused health care approach would be reasonable and in line with this patient's goals. As a terminally ill patient approaches the end of his or her life, he or she may decide to focus on the quality of his or her remaining life rather than on increasing the quantity of time remaining. This often allows them to avoid further invasive diagnostic and therapeutic interventions and to instead be as comfortable as possible for the remainder of their life when additional therapy would not meaningfully extend the quantity of remaining life. For this patient, the most appropriate next step would be to provide adequate pain control with intravenous morphine therapy so that she can be in as little pain as possible until death. Occasionally, a family's desires are inconsistent with a patient's desires for their care. If the patient has capacity to make medical decisions, his/her wishes should be honored, rather than those of their family. The physician should explore reasons for the discrepancy, especially in cases where values may have recently changed or in cases of impaired capacity, but barring any ethical uncertainty, patient wishes should be honored.","Consulting with the hospital ethics committee (Choice A) is not necessary. This patient has a terminal illness and the mental capacity to make her own decisions regarding her care. Her desires for her care going forward should be prioritized over the desires of her family. Obtaining a psychiatric assessment (Choice B) would be inappropriate. This patient has no signs to suggest that she is incapable of making an informed decision regarding her goals of care going forward. With progressive metastatic terminal cancer, the decision to forego further attempts at life-sustaining treatments to focus on quality of life would be a reasonable decision. Intravenous chemotherapy (Choice D) and operative cytoreduction (Choice E) would not be in line with this patient's goals of care. She would prefer to abstain from further treatment in the setting of progressive metastatic disease, despite her family's desires because these treatments would be more likely to diminish quality of life without substantially adding to her quantity or remaining quality of life."
+768,"(qid: 0768) A 22-year-old man is brought to the emergency department because of loss of consciousness after he struck his head when he dove into a shallow pool 30 minutes ago. He was rescued immediately and was unresponsive to voice and noxious stimuli for 5 minutes. He began to awaken at the scene. On arrival, he is alert and dizzy, and vomits twice during evaluation. Vital signs are within normal limits. There is a bruise in the middle of the forehead. Examination shows normal optic fundi, pupillary responses, ocular movements, muscle strength, and reflexes. He does not remember the event or coming to the hospital. He is able to recall zero of three objects after 5 minutes. He is oriented to person. Four hours later, he is able to recall three of three objects after 5 minutes. His symptoms have resolved except for a mild headache. Which of the following is the most likely diagnosis?
+A) Basilar skull fracture
+B) Chronic subdural hematoma
+C) Concussion
+D) Epidural hematoma
+E) Facial bone fracture
+F) Frontal skull fracture
+G) Intracerebral hematoma
+","(qid: 0768) A 22-year-old {dem-char-1} {dem-char-2} {dem-char-3} man is brought to the emergency department because of loss of consciousness after he struck his head when he dove into a shallow pool 30 minutes ago. He was rescued immediately and was unresponsive to voice and noxious stimuli for 5 minutes. He began to awaken at the scene. On arrival, he is alert and dizzy, and vomits twice during evaluation. Vital signs are within normal limits. There is a bruise in the middle of the forehead. Examination shows normal optic fundi, pupillary responses, ocular movements, muscle strength, and reflexes. He does not remember the event or coming to the hospital. He is able to recall zero of three objects after 5 minutes. He is oriented to person. Four hours later, he is able to recall three of three objects after 5 minutes. His symptoms have resolved except for a mild headache. Which of the following is the most likely diagnosis?
+A) Basilar skull fracture
+B) Chronic subdural hematoma
+C) Concussion
+D) Epidural hematoma
+E) Facial bone fracture
+F) Frontal skull fracture
+G) Intracerebral hematoma
+",C,"Mild traumatic brain injury, also known as a concussion, commonly results in transient loss of consciousness, confusion, amnesia, headache, dizziness, nausea, and/or vomiting minutes after the injury. Symptoms that commonly develop within the following days include mood disturbances, photophobia, phonophobia, trouble concentrating, and/or insomnia. Focal neurologic symptoms such as limb weakness or vision changes may indicate traumatic neurovascular injury. As such, all patients with suspected concussion should undergo a thorough neurologic examination, and a subset of at-risk patients should receive neuroimaging, especially those demonstrating any neurologic deficits. All patients should be monitored closely for 24 hours for neurologic deterioration, which may indicate a developing intracranial hematoma. To prevent cumulative brain injury (eg, a second concussion), patients with concussion should return to their usual activities in a graded fashion, beginning with the return to school or work. Each day, a more intense activity can be introduced (eg, light aerobic exercise), culminating with contact sports after 1 week or more in uncomplicated and improving cases. Several clinical decision rules (eg, Canadian CT head rule for adults, Pediatric Emergency Care Applied Research Network {PECARNJ rule for children) exist to inform the need for neuroimaging following head injury. These rules are designed to be sensitive rather than specific; therefore, there are few false-negative cases when these rules are applied (and therefore a minimal miss rate of significant injury).","Basilar skull fracture (Choice A) refers to fracture of the bones at the base of the skull. Nausea, rhinorrhea, otorrhea, and hemotympanum are suggestive findings after a basilar skull injury. Cranial nerve dysfunction is also possible. Confusion is uncommon, and this patient does not have rhinorrhea or otorrhea.
+
+Chronic subdural hematoma (Choice B) may present with the insidious onset of headache, lethargy, confusion, nausea, vomiting, seizures, and/or vision impairment. Chronic subdural hematomas most commonly occur in older patients. This young patient instead presents with the acute onset of neurologic symptoms following blunt head injury.
+
+Epidural hematoma (Choice D) is classically associated with trauma to the middle meningeal artery and can present with an initial lucid interval followed by deterioration of mental status. Patients can also develop symptoms of headache, vomiting, seizures, and coma. This patient demonstrates an improving rather than a deteriorating course. Epidural hematomas can rapidly expand causing brain herniation syndromes.
+
+Facial bone fracture (Choice E) commonly occurs as a result of direct blunt trauma to the face and is associated with pain and ecchymosis. Nerve or muscle entrapment and diplopia are possible. Loss of consciousness, confusion, and vomiting would be uncommon.
+
+Frontal skull fracture (Choice F) is uncommon due to the hardness of the bone, but it can occur after severe blunt head injury and can be associated with intracranial bleeding. It can present with swelling, tenderness, a palpable skull defect or crepitus, and can be associated with altered mental status. This patient does not have a skull defect, swelling, or crepitus, and his mental status improved more rapidly than would be expected with a frontal skull fracture.
+
+Intracerebral hematoma (Choice G) refers to hemorrhage within the brain parenchyma, which most commonly occurs secondary to hypertension. Patients can present with headache, vomiting, confusion, altered mental status, stupor, upper motor neuron signs, and focal neurologic deficits such as hemiparesis and hemisensory symptoms. This patient's quickly improving mental status and vomiting are inconsistent with intracerebral hematoma."

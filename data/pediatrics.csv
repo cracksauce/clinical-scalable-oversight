@@ -1,0 +1,577 @@
+qid,full_qa_no_demo,full_qa_w_placeholders,correct_answer,nbme_correct_explanation,nbme_incorrect_explanation
+1170,"(qid: 1170) A 2-month-old boy is brought to the physician for an initial examination because of persistent jaundice. He is described as a ""good"" baby, who breast-feeds reasonably well but often needs to be awakened to feed. Examination shows an umbilical hernia, mild jaundice, and cool extremities. Growth is appropriate for age. Which of the following is the most appropriate next step in diagnosis?
+A) Karyotype analysis
+B) Measurement of sweat chloride concentration
+C) Thyroid function tests
+D) CT scan of the head
+E) CT scan of the liver
+","(qid: 1170) A 2-month-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought to the physician for an initial examination because of persistent jaundice. He is described as a ""good"" baby, who breast-feeds reasonably well but often needs to be awakened to feed. Examination shows an umbilical hernia, mild jaundice, and cool extremities. Growth is appropriate for age. Which of the following is the most appropriate next step in diagnosis?
+A) Karyotype analysis
+B) Measurement of sweat chloride concentration
+C) Thyroid function tests
+D) CT scan of the head
+E) CT scan of the liver
+",C,"Congenital hypothyroidism typically presents without symptoms due to placental crossing of maternal thyroid hormone. However, if hypothyroidism is left untreated, infants may develop lethargy, hypothermia, feeding problems, hoarse cry, myxedematous facies, macroglossia, hypotonia, umbilical hernia, prolonged jaundice caused by impaired feeding and decreased bilirubin conjugation, and dry skin. Intellectual disability in childhood may develop. Diagnosis requires evaluation of thyroid function tests, which typically shows increased TSH and decreased thyroxine (T 4) concentrations at birth. In patients with decreased thyroid hormone concentrations on serum testing, thyroid scans and thyroid-binding globulin concentrations help elucidate the cause of hypothyroidism (eg, distinguishing between thyroid dysgenesis and defective thyroid hormone synthesis). Management requires proactive newborn screening and levothyroxine therapy.","A karyotype analysis (Choice A) would be helpful in the diagnosis of chromosomal diseases such as Turner syndrome, congenital adrenal hyperplasia, or trisomy 21. Measurement of sweat chloride concentration (Choice B) is used in the diagnosis of cystic fibrosis. Cystic fibrosis is a hereditary chloride channelopathy that results in thickened bronchial and gastrointestinal mucous secretions, leading to chronic infection, inflammation, and malabsorption. CT scan of the head (Choice D) can help with the evaluation of structural brain abnormalities such as intracranial hemorrhage or congenital malformations. It has no role in the diagnosis of congenital hypothyroidism. CT scan of the liver (Choice E) would not be helpful in the evaluation of congenital hypothyroidism. Jaundice secondary to biliary obstruction can be evaluated with ultrasonography of the right upper quadrant of the abdomen."
+1171,"(qid: 1171) A 3-week-old girl is admitted to the hospital because of a 1-day history of fever and irritability and a 2-day history of diarrhea that has become bloody during the past 6 hours. She was born at 39 weeks' gestation; pregnancy and delivery were uncomplicated. Her diet consists of cow milk-based formula. The family occasionally eats out at fast-food restaurants. There are two pet lizards at home. The patient is awake but irritable. She is at the 25th percentile for length and weight and 50th percentile for head circumference. Her temperature is 39.1 ¬°C (102.4 ¬°F), pulse is 170/min, and respirations are 40/min. Capillary refill time is less than 2 seconds. Her hemoglobin concentration is 16 g/dl, leukocyte count is 18,000/mm3, and platelet count is 260,000/mm 3. Serum concentrations of electrolytes, urea nitrogen, and creatinine are within the reference ranges. After 24 hours, blood and stool cultures grow gram-negative rods. Which of the following is the most likely causal organism?
+A) Campylobacter jejuni
+B) Escherichia coli 0157:H?
+C) Listeria monocytogenes
+D) Salmonella enteritidis
+E) Shigella sonnei
+","(qid: 1171) A 3-week-old {dem-char-1} {dem-char-2} {dem-char-3} girl is admitted to the hospital because of a 1-day history of fever and irritability and a 2-day history of diarrhea that has become bloody during the past 6 hours. She was born at 39 weeks' gestation; pregnancy and delivery were uncomplicated. Her diet consists of cow milk-based formula. The family occasionally eats out at fast-food restaurants. There are two pet lizards at home. The patient is awake but irritable. She is at the 25th percentile for length and weight and 50th percentile for head circumference. Her temperature is 39.1 ¬°C (102.4 ¬°F), pulse is 170/min, and respirations are 40/min. Capillary refill time is less than 2 seconds. Her hemoglobin concentration is 16 g/dl, leukocyte count is 18,000/mm3, and platelet count is 260,000/mm 3. Serum concentrations of electrolytes, urea nitrogen, and creatinine are within the reference ranges. After 24 hours, blood and stool cultures grow gram-negative rods. Which of the following is the most likely causal organism?
+A) Campylobacter jejuni
+B) Escherichia coli 0157:H?
+C) Listeria monocytogenes
+D) Salmonella enteritidis
+E) Shigella sonnei
+",D,"Salmonella enteritidis is a motile, gram-negative bacillus that is a major cause of diarrhea worldwide. In the United States, it is most associated with undercooked poultry, eggs, or meats, and in some cases has been associated with pets (eg, turtles, reptiles, chickens). The incubation period typically ranges from 8 to 72 hours and patients will subsequently develop diarrhea, nausea, vomiting, and fever. Bloody stools are common in children and Salmonella gastroenteritis is usually self-limited, with fevers resolving within 3 days and diarrhea resolving in approximately 1 week. Supportive care, including oral rehydration, is the cornerstone of management and antibiotics are not generally recommended in immunocompetent individuals with mild to moderate infections. Stool studies may show gram negative bacilli.","Campylobacter jejuni (Choice A) is a gram-negative rod that is a common cause of bacterial diarrhea in the United States. Associated risk factors include travel and consumption of undercooked poultry or meat. Patients often present with watery diarrhea that is self-limited to 1 to 3 days. Patients are treated with supportive care and diagnosis is confirmed by stool cultures.
+
+Escherichia coli 0157:H? (Choice B) is associated with Shiga toxin and outbreaks of bloody diarrhea. The patient's course may be complicated by hemolytic uremic syndrome, which presents with microangiopathic hemolytic anemia, thrombocytopenia, and kidney failure.
+
+Listeria monocytogenes (Choice C) is an aerobic, gram-positive bacillus associated with the ingestion of unpasteurized dairy products or deli meats. The incubation period is approximately 24 hours and patients may develop associated fever, watery diarrhea, nausea, and vomiting. This is a self-limited infection, and most patients demonstrate resolution of symptoms within 2 days, however, pregnant women carry a risk for transplacental transmission to the fetus.
+
+Shigella sonnei (Choice E) is a gram-negative bacillus associated with initial watery diarrhea, which may be followed by bloody diarrhea. Patients may also present with fevers, abdominal distention, and cramping, and diagnosis is made with a stool culture. Antimotility agents are not recommended for affected patients as they may worsen symptoms."
+1172,"(qid: 1172) A 2-day-old full-term newborn is brought to the physician because of bilateral eye discharge. He was delivered at home by his father and has not yet been examined by a physician. He appears well. Vital signs are within normal limits. Examination shows marked swelling of the eyelids; there is profuse yellow discharge from both eyes. The conjunctivae cannot be visualized because of the swelling. No other abnormalities are noted. Which of the following is the most likely diagnosis?
+A) Allergic conjunctivitis
+B) Chemical conjunctivitis
+C) Chlamydia conjunctivitis
+D) Gonococcal conjunctivitis
+E) Mucocutaneous lymph node syndrome (Kawasaki disease)
+","(qid: 1172) A 2-day-old {dem-char-1} {dem-char-2} {dem-char-3} full-term newborn is brought to the physician because of bilateral eye discharge. He was delivered at home by his father and has not yet been examined by a physician. He appears well. Vital signs are within normal limits. Examination shows marked swelling of the eyelids; there is profuse yellow discharge from both eyes. The conjunctivae cannot be visualized because of the swelling. No other abnormalities are noted. Which of the following is the most likely diagnosis?
+A) Allergic conjunctivitis
+B) Chemical conjunctivitis
+C) Chlamydia conjunctivitis
+D) Gonococcal conjunctivitis
+E) Mucocutaneous lymph node syndrome (Kawasaki disease)
+",D,"Gonococcal conjunctivitis is the result of direct inoculation of bacteria from the genital canal to the newborn's eyes during the process of delivery. Patients present with erythema, profuse purulent discharge, eyelid swelling, and lymphadenopathy. Gram stain of purulent discharge will show gram-negative diplococci. In the hospital setting, erythromycin eye drops are provided to newborns at the time of delivery to prevent gonococcal conjunctivitis. Newborns diagnosed with gonococcal conjunctivitis should be hospitalized, cultures should be obtained, and patients should be provided ceftriaxone. Patients may also be provided artificial tears until their condition improves.","Allergic conjunctivitis (Choice A) presents with erythema, pruritus, and watery discharge involving the bilateral eyes. Patients should be instructed to avoid potential triggers, including allergens, and may be treated with topical eye drops with an antihistamine or an alpha-1 agonist.
+
+Chemical conjunctivitis (Choice B) may be the result of chemicals meeting the conjunctiva. Symptoms including erythema, redness, pruritus or pain, and watery discharge may be present. In general, once the chemical has been washed from the eye, symptoms improve. Chlorine is a common self-limited cause of chemical conjunctivitis.
+
+Chlamydia conjunctivitis (Choice C) typically occurs 5 to 14 days following delivery and presents with initial watery discharge that becomes mucopurulent over time. The conjunctiva may become friable and produce bloody discharge. Nucleic acid amplification tests are the gold standard for diagnosis. Treatment should only be started in infants who test positive for the condition. Azithromycin is the preferred agent of choice for neonatal chlamydial infections.
+
+Mucocutaneous lymph node syndrome (Kawasaki disease) (Choice E) is a multisystemic inflammatory disease in children characterized by fever for at least 5 days, bilateral nonexudative conjunctivitis, a polymorphous rash, lymphadenopathy, erythema and edema of the hands and feet, and erythema affecting the mucous membranes with dry, cracked lips."
+1173,"(qid: 1173) A 22-month-old boy has had fever, vomiting, and diarrhea for 3 days. His mother has been supplementing his usual diet with extra nondairy liquids during this period. He has had 12 to 15 diarrheal stools each day. She says that it is difficult to distinguish stool from urine when she changes his diaper. His temperature is 37.9¬°C (100.2¬°F), pulse is 120/min, and respirations are 32/min. Laboratory studies show:
+Serum
+Na¬• 135 mEq/L cI-115 mEq/L K√° 4.8 mEq/L HCO3 -10 mEq/L
+
+Urine pH 5.0
+Arterial blood gas analysis on room air shows:
+
+7.28
+30 mm Hg 108 mm Hg 10 mEq/L
+
+Which of the following is the most likely explanation for his acid-base disorder?
+A) Laboratory error
+B) Renal losses of bicarbonate
+C) Respiratory insufficiency
+D) Stool losses of bicarbonate
+E) Vomiting
+","(qid: 1173) A 22-month-old {dem-char-1} {dem-char-2} {dem-char-3} boy has had fever, vomiting, and diarrhea for 3 days. His mother has been supplementing his usual diet with extra nondairy liquids during this period. He has had 12 to 15 diarrheal stools each day. She says that it is difficult to distinguish stool from urine when she changes his diaper. His temperature is 37.9¬°C (100.2¬°F), pulse is 120/min, and respirations are 32/min. Laboratory studies show:
+Serum
+Na¬• 135 mEq/L cI-115 mEq/L K√° 4.8 mEq/L HCO3 -10 mEq/L
+
+Urine pH 5.0
+Arterial blood gas analysis on room air shows:
+
+7.28
+30 mm Hg 108 mm Hg 10 mEq/L
+
+Which of the following is the most likely explanation for his acid-base disorder?
+A) Laboratory error
+B) Renal losses of bicarbonate
+C) Respiratory insufficiency
+D) Stool losses of bicarbonate
+E) Vomiting
+",D,"This patient's laboratory studies and arterial blood gas analysis show a non-anion gap metabolic acidosis with partial compensation. Non-anion gap metabolic acidosis is identified by a pH less than 7.35 (acidemia), with decreased Pco2 and HCO3-. The respiratory system compensates for the acidosis by increasing minute ventilation, which eliminates carbon dioxide, an acid. This results in decreased Pco2 and increased pH back toward normal range. This patient's persistently decreased pH suggests that respiratory compensation is only partial. Metabolic acidosis describes a derangement involving excess acid and is subdivided into anion gap and non-anion gap categories. Anion gap [Na+] -([Cl-]e+ [HCO3-]) calculates unmeasured anions in serum, which are contributing to acidity, whereas non-anion gap acidosis generally results from excess supply of protons or chloride, retention of protons or chloride by the kidney, or failure to secrete bicarbonate buffers. Non
+anion gap acidosis is often a hyperchloremic metabolic acidosis, as seen in this patient. Causes of non-anion gap acidosis include infusions of normal saline, Addison disease, renal tubular acidosis, and gastrointestinal losses of bicarbonate (eg, diarrhea). In the case of diarrhea or gastrointestinal disturbance, such as in
+this patient, bicarbonate secreted in the small intestine is normally reclaimed in the large intestine in exchange for chloride ions. If the colon cannot reclaim
+bicarbonate, such as following colectomy or during diarrheal illness, the concentration of serum chloride will remain increased and serum bicarbonate decreased.","Several of this patient's laboratory findings are consistent with a presentation of metabolic acidosis secondary to diarrheal losses of bicarbonate, making a laboratory error (Choice A) unlikely. Renal losses of bicarbonate (Choice B) occur in renal tubular acidosis. Renal tubular acidosis results in a hyperchloremic, non-anion gap metabolic acidosis from the dysregulation of the renal tubules causing the loss of bicarbonate or inability to excrete hydrogen ions. In a patient with diarrhea, stool losses of bicarbonate are
+more likely.
+
+Respiratory insufficiency (Choice C) typically leads to respiratory acidosis due to hypercarbia. This patient presents with a metabolic acidosis and compensatory respiratory alkalosis, resulting in a decreased Pco2.
+Vomiting (Choice E) leads to a hypochloremic, hypokalemic metabolic alkalosis due to losses of hydrochloric acid, a major component of stomach secretions. Metabolic alkalosis also occurs secondary to dehydration and subsequent volume contraction, plus relative excess of bicarbonate."
+1174,"(qid: 1174) A 5-day-old newborn has hemorrhagic disease due to vitamin K deficiency. He is bleeding from the nose, mouth, and gastrointestinal tract and into the subdural space. In addition to vitamin K therapy, administration of which of the following is the most appropriate next step?
+A) Cryoprecipitates
+B) Factor VIII concentrate
+C) Fresh frozen plasma
+D) Lactated Ringer solution
+E) Platelets
+","(qid: 1174) A 5-day-old {dem-char-1} {dem-char-2} {dem-char-3} newborn has hemorrhagic disease due to vitamin K deficiency. He is bleeding from the nose, mouth, and gastrointestinal tract and into the subdural space. In addition to vitamin K therapy, administration of which of the following is the most appropriate next step?
+A) Cryoprecipitates
+B) Factor VIII concentrate
+C) Fresh frozen plasma
+D) Lactated Ringer solution
+E) Platelets
+",C,"Vitamin K is a fat-soluble vitamin that plays an important role in the synthesis of several coagulation factors, including factors 11, VII, IX, and X, as well as proteins C and S. Primary sources of vitamin K include leafy green vegetables and endogenous production by intestinal bacterial flora. Vitamin K deficiency is common in newborns due to poor placental transfer of vitamin K, low concentrations of vitamin K in breast milk, as well as immature neonatal intestinal flora and poor absorption. Vitamin K deficiency presents with signs and symptoms of bleeding (also known as hemorrhagic disease of the newborn), which may include cutaneous bleeding (eg, bruising, petechiae, oozing from venipuncture sites), hematomas, epistaxis, or gastrointestinal, retroperitoneal, or intracranial hemorrhage. All newborns should be administered prophylaxis with intramuscular vitamin K. Newborns with evidence of bleeding should be treated with oral or intravenous replacement of vitamin K and fresh frozen plasma (FFP), although treatment should be tailored according to the type and severity of bleeding. FFP contains all coagulation factors, as well as fibrinogen and proteins C and S.","Cryoprecipitate (Choice A) contains concentrated fibrinogen along with factors VIII and XIII, and von Willebrand factor. It is commonly used for the treatment of coagulopathic states with decreased concentrations of fibrinogen and factor VIII, such as disseminated intravascular coagulation. Cryoprecipitate does not contain the coagulation factors that are affected by vitamin K deficiency, such as factors 11, VII, IX, and X, or proteins C and S.
+
+Factor VIII concentrate (Choice B) is useful for the treatment of bleeding disorders that are characterized by a deficiency of factor VIII, such as hemophilia A and von Willebrand disease.
+
+Lactated Ringer solution (Choice D) is a crystalloid solution that is useful for the repletion of intravascular volume. While volume repletion may be useful in the setting of intravascular volume loss for hemorrhage, correcting the deficiency of coagulation factors by administering FFP is a more important step toward addressing this patient's underlying disease.
+
+Platelets (Choice E) is incorrect. While vitamin K deficiency is associated with deficiency of many coagulation factors, it does not result in thrombocytopenia."
+1175,"(qid: 1175) A 5-week-old boy is brought to the emergency department because of a 1-day history of vomiting immediately after each feeding. During this time, he has had only two wet diapers. He was born at term following an uncomplicated pregnancy and delivery and weighed 3317 g (7 lb 5 oz). He was exclusively breast-fed during his first 3 weeks of life; for the past 2 weeks, his diet has consisted of a cow milk-based formula. He has been taking 4 to 5 oz per feeding and, until yesterday, had minimal spitting up after each feeding. At his most recent examination 1 week ago, he weighed 4224 g (1 lb 5 oz). Today, he weighs 85 3 oz) less. Physical examination shows no other abnormalities. After the examination, he is given a bottle of formula, drinks 4 oz, and vomits a large amount. This patient most likely has an obstruction at which of the following locations?
+A) Duodenum
+B) Gastroesophageal junction
+C) Jejunum
+D) Midesophagus
+E) Pyloric junction
+","(qid: 1175) A 5-week-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought to the emergency department because of a 1-day history of vomiting immediately after each feeding. During this time, he has had only two wet diapers. He was born at term following an uncomplicated pregnancy and delivery and weighed 3317 g (7 lb 5 oz). He was exclusively breast-fed during his first 3 weeks of life; for the past 2 weeks, his diet has consisted of a cow milk-based formula. He has been taking 4 to 5 oz per feeding and, until yesterday, had minimal spitting up after each feeding. At his most recent examination 1 week ago, he weighed 4224 g (1 lb 5 oz). Today, he weighs 85 3 oz) less. Physical examination shows no other abnormalities. After the examination, he is given a bottle of formula, drinks 4 oz, and vomits a large amount. This patient most likely has an obstruction at which of the following locations?
+A) Duodenum
+B) Gastroesophageal junction
+C) Jejunum
+D) Midesophagus
+E) Pyloric junction
+",E,"Pyloric stenosis is a disorder of the pyloric sphincter that occurs in young infants and can result in partial or complete gastric outlet obstruction. It is caused by hypertrophy of the pylorus and an inability to relax the pyloric sphincter. Infants classically present within the first 1 to 2 months of life with forceful nonbilious emesis. Physical examination is notable for a characteristic ovoid mass in the epigastric region. The recurrent emesis, if severe, may result in signs of volume depletion and malnutrition. Laboratory studies typically show a hypochloremic, hypokalemic metabolic alkalosis as a result of the loss of gastric hydrochloric acid and potassium ions. Additionally, the resultant volume depletion causes activation of the renin-angiotensin-aldosterone system, resulting in renal losses of potassium and protons. Confirmatory diagnosis is made by ultrasound imaging to evaluate the thickness and length of the pyloric muscle. Patients are treated with surgical pyloromyotomy to relieve the stenosis.","Duodenum (Choice A) is the location of obstruction in patients with duodenal atresia, which is caused by failure of recanalization of the duodenal lumen. Duodenal atresia presents with vomiting and abdominal distension within the first few days after birth in complete atresia.
+
+Gastroesophageal junction (Choice B) is the location of obstruction in achalasia. Achalasia is an esophageal dysmotility disorder resulting from deficient peristalsis as a result of impaired neuromuscular transmission and impaired relaxation of the lower esophageal sphincter. It manifests as dysphagia, odynophagia, weight loss, halitosis, and regurgitation of undigested food. It is typically diagnosed between ages 25 and 65 years and is rare in children.
+
+Jejunum (Choice C) may undergo atresia in a fetus secondary to an ischemic event, which may have various causes, such as maternal cocaine use, malrotation with volvulus, or other idiopathic causes. Patients may present with vomiting and abdominal distension on the first day of life, similar to patients with duodenal atresia.
+
+Midesophagus (Choice D) is the location of obstruction in patients with a vascular ring. A vascular ring is a congenital malformation of the aortic arch and/or great vessels that encircles the trachea and midesophagus. In addition to dysphagia, vomiting, and feeding problems, patients may present with strider and respiratory difficulties."
+1176,"(qid: 1176) A 4-month-old female infant is brought to the physician because of a rash in the diaper area for 5 days. The infant has had two episodes of otitis media treated with oral antibiotic therapy but has been otherwise healthy. Her temperature is 37¬°C 98.6¬°F). Physical examination shows a red, confluent rash with sharply demarcated borders, pustules, and satellite papules in the diaper area. Which of the following is the most appropriate pharmacotherapy?
+A) Topical mupirocin
+B) Topical nystatin
+C) Oral cephalexin
+D) Oral ketoconazole
+E) Intravenous amphotericin B
+F) No pharmacotherapy is indicated
+","(qid: 1176) A 4-month-old {dem-char-1} {dem-char-2} {dem-char-3} female infant is brought to the physician because of a rash in the diaper area for 5 days. The infant has had two episodes of otitis media treated with oral antibiotic therapy but has been otherwise healthy. Her temperature is 37¬°C 98.6¬°F). Physical examination shows a red, confluent rash with sharply demarcated borders, pustules, and satellite papules in the diaper area. Which of the following is the most appropriate pharmacotherapy?
+A) Topical mupirocin
+B) Topical nystatin
+C) Oral cephalexin
+D) Oral ketoconazole
+E) Intravenous amphotericin B
+F) No pharmacotherapy is indicated
+",B,"Topical nystatin is a polyene that is used topically to treat mucocutaneous candida infections. Candida is part of the normal mucocutaneous flora, but infection is common in intertriginous areas like the diaper area in infants along with the genital and inframammary regions in adults. Candida infections may be associated with beefy red patches, favoring the skin folds, with satellite papules and pustules. First-line treatment includes topical antifungals, such as nystatin.","Topical mupirocin (Choice A) is used in the treatment of superficial antibacterial infections, such as Staphylococcus aureus. Mupirocin binds bacterial tRNA synthetase, which decreases RNA and protein synthesis. Mupirocin is not effective for the treatment of candidiasis.
+
+Oral cephalexin (Choice C) is a first-generation cephalosporin antibiotic that is effective against gram-positive organisms as well as some gram-negative organisms. Cephalexin is not used to treat candidiasis.
+
+Oral ketoconazole (Choice D) is an azole antifungal agent that has been associated with severe side effects including hepatotoxicity as well as QT prolongation. Because of these side effects, oral ketoconazole is rarely used in clinical practice, however, topical azoles are widely used in the treatment of cutaneous fungal infections.
+
+Intravenous amphotericin B (Choice E) is a systemic antifungal agent that binds and disrupts ergosterol in fungal cell membranes and is used to treat systemic fungal infections. Side effects include fevers, chills, kidney toxicity, and life-threatening arrhythmias. Amphotericin B is not used for the treatment of cutaneous Candida infection.
+
+No pharmacotherapy is indicated (Choice F) is incorrect, as a topical antifungal such as nystatin is indicated for the treatment of cutaneous candidiasis."
+1177,"(qid: 1177) A 2-year-old boy who is HIV positive is brought to the family clinic by his mother for a follow-up examination. He is currently taking three antiretroviral drugs. His HIV-positive mother is also taking multiple antiretroviral drugs; she has chronic cryptosporidiosis and has had a 5-kg (11-lb) weight loss during the past 2 months. The father is not in contact with the family. The child's growth and development are appropriate for age, and immunizations are up-to-date. Examination shows two small, nontender, mobile lymph nodes in the right axilla. Laboratory studies show: Child:
+Leukocyte count: 12,800/mm³
+Segmented neutrophils: 55%
+Lymphocytes: 35%
+Monocytes: 10%
+CD4+ T-lymphocyte count: 1852/mm³ (Normal>1000)
+Plasma HIV viral load: undetectable
+Serum hepatitis C antibody: negative
+Mother:
+Leukocyte count: 4100/mm³
+Segmented neutrophils: 80%
+Lymphocytes: 10%
+Monocytes: 10%
+CD4+ T-lymphocyte count: 4/mm³ (Normal>500)
+Plasma HIV viral load: 38,000 copies/mL
+Serum hepatitis C antibody: positive
+Which of the following is the most appropriate topic to discuss at this visit?
+A) The advantages of three-drug versus four-drug antiretroviral regimens
+B) Care of the child in case of the mother's death
+C) The child's immunization schedule
+D) Hand-washing techniques to prevent HIV transmission
+E) Long-term complications of HIV infection
+","(qid: 1177) A 2-year-old {dem-char-1} {dem-char-2} {dem-char-3} boy who is HIV positive is brought to the family clinic by his mother for a follow-up examination. He is currently taking three antiretroviral drugs. His HIV-positive mother is also taking multiple antiretroviral drugs; she has chronic cryptosporidiosis and has had a 5-kg (11-lb) weight loss during the past 2 months. The father is not in contact with the family. The child's growth and development are appropriate for age, and immunizations are up-to-date. Examination shows two small, nontender, mobile lymph nodes in the right axilla. Laboratory studies show: Child:
+Leukocyte count: 12,800/mm³
+Segmented neutrophils: 55%
+Lymphocytes: 35%
+Monocytes: 10%
+CD4+ T-lymphocyte count: 1852/mm³ (Normal>1000)
+Plasma HIV viral load: undetectable
+Serum hepatitis C antibody: negative
+Mother:
+Leukocyte count: 4100/mm³
+Segmented neutrophils: 80%
+Lymphocytes: 10%
+Monocytes: 10%
+CD4+ T-lymphocyte count: 4/mm³ (Normal>500)
+Plasma HIV viral load: 38,000 copies/mL
+Serum hepatitis C antibody: positive
+Which of the following is the most appropriate topic to discuss at this visit?
+A) The advantages of three-drug versus four-drug antiretroviral regimens
+B) Care of the child in case of the mother's death
+C) The child's immunization schedule
+D) Hand-washing techniques to prevent HIV transmission
+E) Long-term complications of HIV infection
+",B,"In addition to caring for the physical and mental well-being of a child, part of the role of a pediatrician is to help navigate difficult social situations that may be impacting the lives of their patients. Based on his laboratory results showing a normal CD4+ count and an undetectable viral load, this patient appears to have well-controlled HIV. However, despite taking multiple antiretroviral drugs, his mother has a dangerously low CD4+ count and persistently increased viral load, and is at high risk of dying from AIDS-related complications. With a father who is not participating in this child's care, it is important for the mother to have a plan in place for who will take care of the child after her death. As a child with HIV, this patient will require lifelong antiretroviral medications, and close follow up with his pediatrician and infectious disease doctors and will need a caretaker who is aware of these needs. Although the conversation may be difficult, a pediatrician should initiate these discussions to ensure the patient will be taken care of and to offer resources to the mother if needed.","The advantages of three-drug versus four-drug antiretroviral regimens (Choice A), the child's immunization schedule (Choice C), and long-term complications of HIV infection (Choice E) are all important things to discuss at some point. While these are important topics, the more pressing matter at this time is the care of the child after his mother's death. Hand-washing techniques to prevent HIV transmission (Choice D) have not been demonstrated to reduce transmission. HIV is transmitted primarily through blood, vaginal fluid, and semen, and is acquired most often through sexual intercourse and needle sharing. For this reason, handwashing is unlikely to significantly reduce transmission."
+1178,"(qid: 1178) A 2-day-old female newborn is examined before being discharged home. She was born at term following an uncomplicated pregnancy and spontaneous vaginal delivery. She is 50 cm (20 in) in length and weighs 3515 g (7 lb 12 oz). Her temperature is 36.8¬∞C (98.2¬∞F) pulse is 128/min respirations are 38/min and blood pressure is 70/54 mm Hg. Examination shows a generalized rash with small yellow papules on an erythematous base, predominantly over the trunk. Which of the following is the most appropriate next step in management?
+A) Culture of lesions and antibiotic therapy to eradicate Staphylococcus aureus
+B) Culture of lesions for herpes simplex virus
+C) KOH stain of a lesion scraping for Candida species
+D) Topical corticosteroid therapy
+E) Reassurance to the parents that the rash will resolve in a few days
+","(qid: 1178) A 2-day-old {dem-char-1} {dem-char-2} {dem-char-3} female newborn is examined before being discharged home. She was born at term following an uncomplicated pregnancy and spontaneous vaginal delivery. She is 50 cm (20 in) in length and weighs 3515 g (7 lb 12 oz). Her temperature is 36.8¬∞C (98.2¬∞F) pulse is 128/min respirations are 38/min and blood pressure is 70/54 mm Hg. Examination shows a generalized rash with small yellow papules on an erythematous base, predominantly over the trunk. Which of the following is the most appropriate next step in management?
+A) Culture of lesions and antibiotic therapy to eradicate Staphylococcus aureus
+B) Culture of lesions for herpes simplex virus
+C) KOH stain of a lesion scraping for Candida species
+D) Topical corticosteroid therapy
+E) Reassurance to the parents that the rash will resolve in a few days
+",E,"Erythema toxicum neonatorum is a common, benign skin eruption of newborns that typically begins in the days following delivery and lasts from hours to days. This condition is characterized by 1-to 2-mm pale to yellow papules or pustules with an erythematous base, typically found on the trunk. Diagnosis is made based on clinical presentation. If performed, a bedside Wright stain of vesicular fluid would show numerous eosinophils. Reassurance that the rash will resolve in a few days following diagnosis should be provided to the newborn's parents. Erythema toxicum, in isolation, follows a benign and harmless course.","Culture of lesions and antibiotic therapy to eradicate Staphylococcus aureus (Choice A) would be appropriate in cases of superficial bacterial infections such as impetigo. Impetigo may present as a superficial erosion with an overlying honey-colored crust. Localized cases may be treated with topical antibiotics, such as mupirocin.
+
+Culture of lesions for herpes simplex virus (HSV) (Choice B) would be the appropriate step for suspected cutaneous herpes simplex. Herpes simplex generally presents as grouped, umbilicated vesicles on the lips, genitals, or any location on the skin. In newborns, the diagnosis raises concern for disseminated HSV, for which there is a low threshold to obtain a lumbar puncture and initiate acyclovir to prevent or treat meningitis.
+
+KOH stain of a lesion scraping for Candida species (Choice C) would be correct if the lesions were present in the genital region. Generally, candida presents in the diaper area with sharply demarcated, beefy, red plaques with satellite pustules. Candidiasis in newborns is treated with topical antifungals in the affected area.
+
+Topical corticosteroid therapy (Choice D) is not the appropriate therapy for a self-limited condition, such as erythema toxicum neonatorum. Topical corticosteroids are commonly used in inflammatory conditions, including atopic dermatitis."
+1179,"(qid: 1179) A 5-week-old boy is brought to the emergency department by his parents in the fall because of a 2-week history of progressive cough. He often coughs uncontrollably until he is struggling to breathe and vomits. He has not had fever. He had moderate nasal congestion for the first 5 days of his illness. He was born following an uncomplicated pregnancy and delivery. The patient's father also has had a cough for 3 weeks. During the examination, the patient is not in distress except when he is coughing. He is at the 25th percentile for length, weight, and head circumference. His temperature is 37.1 ¬°C (98.8¬°F),pulse is 148/min, and respirations are 40/min. Pulse oximetry on room air shows an oxygen saturation of 95%. The lungs are clear to auscultation. The remainder of the examination shows no abnormalities. Laboratory studies show: Leukocyte count 28,000/mm3 (N=6000-14,000) Segmented neutrophils 14% Bands 1% Lymphocytes 80% Monocytes 5% A chest x-ray shows no abnormalities. Which of the following is the most likely causal organism?
+A) Bordetella pertussis
+B) Influenza virus
+C) Mycoplasma pneumoniae
+D) Respiratory syncytial virus
+E) Streptococcus pneumoniae
+","(qid: 1179) A 5-week-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought to the emergency department by his parents in the fall because of a 2-week history of progressive cough. He often coughs uncontrollably until he is struggling to breathe and vomits. He has not had fever. He had moderate nasal congestion for the first 5 days of his illness. He was born following an uncomplicated pregnancy and delivery. The patient's father also has had a cough for 3 weeks. During the examination, the patient is not in distress except when he is coughing. He is at the 25th percentile for length, weight, and head circumference. His temperature is 37.1 ¬°C (98.8¬°F),pulse is 148/min, and respirations are 40/min. Pulse oximetry on room air shows an oxygen saturation of 95%. The lungs are clear to auscultation. The remainder of the examination shows no abnormalities. Laboratory studies show: Leukocyte count 28,000/mm3 (N=6000-14,000) Segmented neutrophils 14% Bands 1% Lymphocytes 80% Monocytes 5% A chest x-ray shows no abnormalities. Which of the following is the most likely causal organism?
+A) Bordetella pertussis
+B) Influenza virus
+C) Mycoplasma pneumoniae
+D) Respiratory syncytial virus
+E) Streptococcus pneumoniae
+",A,"Episodes of severe paroxysmal coughing in the setting of a respiratory illness is concerning for pertussis. Pertussis occurs as a result of an infection from Bordetella pertussis and classically presents in three stages. The catarrhal stage is first, which presents with fever, rhinorrhea, and a mild cough. This progresses to the paroxysmal stage after 1 to 2 weeks, in which patients experience violent bouts of extreme coughing, at times violent enough to cause secondary traumatic injury, such as rib fractures, urinary incontinence, and pneumothorax. Often, such coughing fits are accompanied by cyanosis and may be followed by syncope, emesis, or apnea. The paroxysmal stage can last for weeks to months. Symptoms resolve during the convalescent stage, which lasts from 1 to 4 weeks. Pertussis can be prevented with immunization in the form of acellular pertussis, typically administered along with tetanus and diphtheria vaccines. It is treated with antibiotics, typically macrolides, and supportive care.","Influenza virus (Choice 8) is a common cause of viral pneumonia during the winter months. It presents with respiratory, gastrointestinal, and systemic symptoms, including cough, nausea, vomiting, diarrhea, fever, chills, headache, myalgias, and arthralgias. It can be complicated by bacterial superinfection causing severe bacterial pneumonia. It typically lasts for less than 1 week and does not have a paroxysmal stage. Mycoplasma pneumoniae (Choice C) is a common cause of atypical pneumonia and presents with acute cough, fever, chills, and shortness of breath. Chest x-ray typically shows multifocal infiltrates. Respiratory syncytial virus bronchiolitis (Choice D) is more likely to present with fever, tachypnea, rhinorrhea, and wheezing. Patients may also display apneic episodes, although severe paroxysms of coughing would be atypical. Streptococcus pneumoniae (Choice E) is a common bacterial cause of pneumonia, but patients tend to present with focal lung findings indicating a lobar pneumonia typically seen on chest x-ray."
+1180,"(qid: 1180) A 17-year-old boy comes to the office for an examination prior to participating in football. The patient says he feels well. He has no history of serious illness and takes no medications. There is no family history of serious illness. The patient is 180 cm (5 ft 11 in) tall and weighs 93 kg (205 lb); BMI is 29 kg/m2. His blood pressure in the right upper extremity, obtained by automated oscillometric device, is 138/88 mm Hg (95th percentile for age and height). Repeat blood pressure by the device is 140/89 mm Hg. Examination shows no other abnormalities. Which of the following is the most appropriate next step in diagnosis?
+A) Blood pressure measurement by auscultation
+B) Echocardiography
+C) 24-Hour ambulatory blood pressure monitoring
+D) Repeat blood pressure measurement by oscillometric device in the office daily for the next 3 days
+E) Repeat blood pressure measurement by oscillometric device in the office in 2 weeks
+","(qid: 1180) A 17-year-old {dem-char-1} {dem-char-2} {dem-char-3} boy comes to the office for an examination prior to participating in football. The patient says he feels well. He has no history of serious illness and takes no medications. There is no family history of serious illness. The patient is 180 cm (5 ft 11 in) tall and weighs 93 kg (205 lb); BMI is 29 kg/m2. His blood pressure in the right upper extremity, obtained by automated oscillometric device, is 138/88 mm Hg (95th percentile for age and height). Repeat blood pressure by the device is 140/89 mm Hg. Examination shows no other abnormalities. Which of the following is the most appropriate next step in diagnosis?
+A) Blood pressure measurement by auscultation
+B) Echocardiography
+C) 24-Hour ambulatory blood pressure monitoring
+D) Repeat blood pressure measurement by oscillometric device in the office daily for the next 3 days
+E) Repeat blood pressure measurement by oscillometric device in the office in 2 weeks
+",A,"Hypertension is an increasing finding among pediatric and adolescent patients as rates of obesity have risen. Childhood and adolescent hypertension is associated with both an increased risk for persistent hypertension during adulthood and an increased risk for adverse cardiovascular events in later life. In adolescent patients, hypertension is defined as a blood pressure greater than the 95th percentile. Accurate blood pressure measurement is essential for staging and aids in guiding treatment and blood pressure recheck intervals. Oscillometric devices are commonly used for hypertension screening and routine office measurements, but frequently overestimate both systolic and diastolic blood pressures. If initial measurement by an oscillometric device reading is high, repeat measurements by auscultation should be performed and averaged to determine the patient's stage of hypertension. Initial treatment of hypertension is with lifestyle modifications targeting modifiable risk factors, such as obesity.","Echocardiography (Choice 8) may be indicated in adolescent patients with hypertension in order to assess cardiac health at the time of initiating pharmacologic therapy. Establishing the diagnosis of hypertension is the more appropriate next step.
+24-Hour ambulatory blood pressure monitoring (Choice C) is a useful, accurate method of assessing hypertension. However, initial, in-office measurement by auscultation should be performed first for this patient who has only undergone measurement by oscillometric device.
+Repeat blood pressure measurement by oscillometric device in the office either daily for the next 3 days (Choice D) or in 2 weeks (Choice E) is incorrect. Oscillometric devices frequently overestimate blood pressure, and confirmatory measurements by auscultation are required for diagnosis."
+1181,"(qid: 1181) A 3-year-old boy is brought to the emergency department 4 hours after the onset of irritability and temperatures to 40¬°C (104¬° F). He received the diagnosis of systemic-onset juvenile idiopathic arthritis 2 months ago; treatment with ibuprofen has begun to improve his √°oint stiffness and swelling. He apQears pale and is inconsolable. Examination shows scattered petechiae over the trunk and extremities, a distended abdomen, and diffuse lymphadenopathy. The liver edge and spleen tip are palpated 5 cm below the costal margins. There is bilateral knee and ankle swelling with effusions. Laboratory studies show:
+Hematocrit 23.4%
+Leukocyte count 2500/mmJ
+Segmented neutrophils 20%
+Bands 10%
+Lymphocytes 70%
+Platelet count 45,000/mm3
+Erythrocyte sedimentation rate 12 mm/h Serum
+AST 235 U/L
+ALT 337 U/L
+C-reactive protein 3.5 mg/L (N=0.08-3.1)
+Which of the following is the most appropriate next step in diagnosis?
+A) Abdominal CT scan
+B) Bone scan
+C) Gallium scan
+D) Bone marrow aspiration
+","(qid: 1181) A 3-year-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought to the emergency department 4 hours after the onset of irritability and temperatures to 40¬°C (104¬° F). He received the diagnosis of systemic-onset juvenile idiopathic arthritis 2 months ago; treatment with ibuprofen has begun to improve his √°oint stiffness and swelling. He apQears pale and is inconsolable. Examination shows scattered petechiae over the trunk and extremities, a distended abdomen, and diffuse lymphadenopathy. The liver edge and spleen tip are palpated 5 cm below the costal margins. There is bilateral knee and ankle swelling with effusions. Laboratory studies show:
+Hematocrit 23.4%
+Leukocyte count 2500/mmJ
+Segmented neutrophils 20%
+Bands 10%
+Lymphocytes 70%
+Platelet count 45,000/mm3
+Erythrocyte sedimentation rate 12 mm/h Serum
+AST 235 U/L
+ALT 337 U/L
+C-reactive protein 3.5 mg/L (N=0.08-3.1)
+Which of the following is the most appropriate next step in diagnosis?
+A) Abdominal CT scan
+B) Bone scan
+C) Gallium scan
+D) Bone marrow aspiration
+",D,"This patient, with fever, petechiae, lymphadenopathy, hepatosplenomegaly, and laboratory findings of pancytopenia, has a presentation concerning for acute lymphoblastic leukemia (ALL). ALL is a common pediatric malignancy of 8-or T-lymphocytes that may present with malaise, fatigue, weight loss, splenomegaly,lymphadenopathy, anemia, and thrombocytopenia, with circulating leukemic blasts on peripheral blood smear. Diagnosis is confirmed with bone marrow biopsyshowing >20% lymphoblasts. 8-lymphocyte malignancies are more common than T-lymphocyte malignancies, and evaluation with flow cytometry is necessary to determine the specific type of malignant cell, followed by mutational analyses. Treatment typically entails chemotherapy and many patients with ALL will enter remission. Bone marrow transplant can be curative in many cases.","Abdominal CT scan (Choice A) can be performed to identify intra-abdominal tumors such as neuroblastoma and nephroblastoma (Wilms tumors). This patient's hepatosplenomegaly is likely secondary to his leukemia rather that a primary intra-abdominal pathology.
+Bone scan (Choice B) is a type of nuclear scan that uses technetium 99m methyl diphosphonate to evaluate for the presence of osteoblastic osseous metastases, most commonly in the setting of breast and prostate cancer.
+Gallium scan (Choice C) is a type of nuclear scan that uses gallium-67 as the tracer to identity areas of inflammation, infection, or malignancy. This has been largely replaced by PET/CT scan for the evaluation and staging of malignancy.
+Liver biopsy (Choice E) is useful in the diagnosis of conditions such as cirrhosis, hepatitis, hepatocellular carcinoma, and hepatic metastatic disease."
+1182,"(qid: 1182) A 7-year-old boy is brought to the emergency department because of the acute onset of pain over the anterior surface of the neck; the pain is exacerbated by swallowing or sticking out his tongue. He also has a 1-day history of fever and chills. Examination shows tenderness in the mid line over the trachea in the region of the thyroid isthmus. There is cervical lymphadenopathy. He has scratches on his arm from playing with his 4-year-old cat. Which of the following is the most likely cause of these findings?
+A) Cat-scratch disease
+B) Infected thyroglossal duct cyst
+C) Infectious mononucleosis
+D) Tonsillitis
+E) Viral syndrome
+","(qid: 1182) A 7-year-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought to the emergency department because of the acute onset of pain over the anterior surface of the neck; the pain is exacerbated by swallowing or sticking out his tongue. He also has a 1-day history of fever and chills. Examination shows tenderness in the mid line over the trachea in the region of the thyroid isthmus. There is cervical lymphadenopathy. He has scratches on his arm from playing with his 4-year-old cat. Which of the following is the most likely cause of these findings?
+A) Cat-scratch disease
+B) Infected thyroglossal duct cyst
+C) Infectious mononucleosis
+D) Tonsillitis
+E) Viral syndrome
+",B,"The findings of fever, chills, and midline neck pain that worsens with swallowing or sticking out the tongue is most suggestive of an infected thyroglossal duct cyst. Thyroglossal duct cysts are a common congenital abnormality that results from failure of the thyroglossal duct to close after the embryonic migration of the thyroid from where it forms in the foramen cecum to its anatomic position in the neck. The thyroid begins to form in the third week of gestation as an outgrowth from the pharynx at the junction between the anterior two-thirds and posterior third of the tongue. It then descends along the thyroglossal duct, passing anterior to the hyoid bone and stopping in the midline neck. The thyroglossal duct then closes. If a segment of the duct persists, epithelial secretions result in cyst formation.","Cat-scratch disease (Choice A) is caused by infection with the gram-negative pleomorphic coccobacillus Bartonella henselae acquired via bites or scratches from cats. It most commonly causes localized lymphadenitis along the lymphatic drainage route proximal to the scratch. The axillary and cervical lymph nodes are commonly affected. Though the patient has an exposure, his presentation is not consistent with cat-scratch disease.
+
+Infectious mononucleosis (Choice C) is most commonly caused by infection with Epstein-Barr virus, though cytomegalovirus and acute HIV infection can also cause similar presentations. Patients typically present with lymphadenopathy (most often involving the cervical chain), pharyngitis, fatigue, and splenomegaly. This patient's examination findings are more consistent with an infected thyroglossal duct cyst.
+
+Tonsillitis (Choice D) is a common pediatric disease caused by viral or bacterial infection. It can also present with fever, pain with swallowing, and cervical lymphadenopathy. Visualization of the tonsils demonstrating edema, erythema, and/or exudate is key to diagnosis. Tenderness in the neck over the trachea is not consistent with tonsillitis.
+
+Viral syndromes (Choice E) are the most common cause of pediatric infections, and symptoms depend on which part of the body is affected. Upper respiratory symptoms may mimic several other conditions, which should be ruled out before attributing the illness to unspecified viral infection. Viral syndrome typically resolves over 3 to 5 days with supportive care."
+1183,"(qid: 1183) A 6-month-old girl with Beckwith-Wiedemann syndrome is brought to the physician because of a 1-week history of intermittent vomiting and fussiness. She receives no medications. Vital signs are within normal limits. Examination shows macroglossia and right-sided hypertrophy. On abdominal examination, a firm mass is palpated in the right upper quadrant. Laboratory studies show:
+f3-hCG 0 mlU/mL
+a-Fetoprotein 15,678 ng/ml (N<10)
+Urine
+
+Homovanillic acid/creatinine 10 mg/g Cr (N=0-42) Vanillylnnandelic acid/creatinine 5.6 mg/g Cr (N=0-27)
+Abdominal ultrasonography is ordered. Which of the following is the most likely explanation for this patient's mass?
+A) Germ cell tumor
+B) Hepatoblastoma
+C) Nephroblastoma (Wilms tumor)
+D) Neuroblastoma
+E) Spina bifida occulta
+","(qid: 1183) A 6-month-old {dem-char-1} {dem-char-2} {dem-char-3} girl with Beckwith-Wiedemann syndrome is brought to the physician because of a 1-week history of intermittent vomiting and fussiness. She receives no medications. Vital signs are within normal limits. Examination shows macroglossia and right-sided hypertrophy. On abdominal examination, a firm mass is palpated in the right upper quadrant. Laboratory studies show:
+f3-hCG 0 mlU/mL
+a-Fetoprotein 15,678 ng/ml (N<10)
+Urine
+
+Homovanillic acid/creatinine 10 mg/g Cr (N=0-42) Vanillylnnandelic acid/creatinine 5.6 mg/g Cr (N=0-27)
+Abdominal ultrasonography is ordered. Which of the following is the most likely explanation for this patient's mass?
+A) Germ cell tumor
+B) Hepatoblastoma
+C) Nephroblastoma (Wilms tumor)
+D) Neuroblastoma
+E) Spina bifida occulta
+",B,"Beckwith-Wiedemann syndrome is a genetic disorder involving mutations of any of several genes located at the 11p15.5 locus that may result from a variety of mechanisms, including defects of imprinting or uniparental disomy. Beckwith-Wiedemann syndrome is characterized by cellular overgrowth and a predisposition to the development of malignancy. Its presentation is heterogenous but commonly includes an above average birth weight, macrosomia, macroglossia, visceromegaly, kidney malformations, omphalocele, or umbilical hernia. Children with Beckwith-Wiedemann syndrome are at an increased risk for developing a variety of malignancies, such as Wilms tumor and hepatoblastoma. a-Fetoprotein concentrations are markedly increased in most patients with hepatoblastoma.","Germ cell tumor (Choice A) would not present as a firm upper abdominal mass. Yolk sac tumors, a type of germ cell tumor, may present as a pelvic mass in young children and are associated with increased serum a-fetoprotein.
+Nephroblastoma (Wilms tumor) (Choice C) is the most common pediatric kidney malignancy and is characterized by a large, often palpable, unilateral flank mass. Patients with Beckwith-Wiedemann are at increased risk for developing a Wilms tumor but these are not associated with increased a-fetoprotein.
+Neuroblastoma (Choice D) is a malignancy of neuroendocrine cells of the sympathetic nervous system that commonly affects the adrenal glands. It may be differentiated from other common abdominal malignancies of childhood by its tendency to cross the midline and have a nodular texture, along with its association with paraneoplastic opsoclonus-myoclonus syndrome and increased concentrations of serum and urine catecholamine metabolites.
+Spina bifida occulta (Choice E) is caused by the failure of caudal neuropore to close. Patients may have a tuft of hair or a skin dimple at the affected vertebral level. Increased amniotic fluid and maternal serum a-fetoprotein concentrations may be seen in other neural tube defects but is not associated with spina bifida occulta."
+1184,"(qid: 1184) A 12-year-old girl with chronic sinusitis is brought to the physician because of fever and productive cough for 4 days. She had pneumococcal pneumonia 5 months ago that was treated with intravenous ceftriaxone followed by oral amoxicillin. She is at the 50th percentile for height and weight. Her temperature is 39¬°C (102.2¬° Ft pulse is 105/min, and respirations are 30/min. Breath sounds are decreased on the lower right. Laboratory studies show: Leukocyte count 21,000/mm3 Segmented neutrophils 70% Bands 15% Lymphocytes 15% Platelet count 140,000/mm3 CD3+ T-lymphocyte count 1500/mm3 (N=820-1900) CD4+ T-lymphocyte count 1000/mm3(N=500) CD8+ T-lymphocyte count 400/mm3 (N=250-650) Serum lgA 20 mg/dL lgG 150 mg/dL lgM 30 mg/dL Which of the following is the most likely diagnosis?
+A) Common variable immunodeficiency
+B) Mucocutaneous lymph node syndrome (Kawasaki disease)
+C) Severe combined immunodeficiency
+D) Systemic lupus erythematosus
+E) Transient agammaglobulinemia of infancy
+F) X-linked agammaglobulinemia
+","(qid: 1184) A 12-year-old {dem-char-1} {dem-char-2} {dem-char-3} girl with chronic sinusitis is brought to the physician because of fever and productive cough for 4 days. She had pneumococcal pneumonia 5 months ago that was treated with intravenous ceftriaxone followed by oral amoxicillin. She is at the 50th percentile for height and weight. Her temperature is 39¬°C (102.2¬° Ft pulse is 105/min, and respirations are 30/min. Breath sounds are decreased on the lower right. Laboratory studies show: Leukocyte count 21,000/mm3 Segmented neutrophils 70% Bands 15% Lymphocytes 15% Platelet count 140,000/mm3 CD3+ T-lymphocyte count 1500/mm3 (N=820-1900) CD4+ T-lymphocyte count 1000/mm3(N=500) CD8+ T-lymphocyte count 400/mm3 (N=250-650) Serum lgA 20 mg/dL lgG 150 mg/dL lgM 30 mg/dL Which of the following is the most likely diagnosis?
+A) Common variable immunodeficiency
+B) Mucocutaneous lymph node syndrome (Kawasaki disease)
+C) Severe combined immunodeficiency
+D) Systemic lupus erythematosus
+E) Transient agammaglobulinemia of infancy
+F) X-linked agammaglobulinemia
+",A,"The most likely diagnosis for this patient is common variable immunodeficiency (CVID). The exact cause and pathogenesis are unknown; however, the disease is characterized by combined T-and 8-lymphocyte defects, dysfunction in 8-lymphocyte differentiation, and a decrease in serum concentration of all immunoglobulins, as seen in this patient's laboratory studies. It commonly presents in the second to fourth decades of life with recurrent upper respiratory, pulmonary, and gastrointestinal infections. Patients may develop bronchiectasis as a result of recurrent airway infection and inflammation. CVID is also associated with persistent diarrhea as a result of chronic Giardia lamblia infection. Physical examination may show lymphadenopathy and splenomegaly. The mainstays of treatment include intravenous immunoglobulin replacement therapy and antibiotics. CVID is strongly associated with lymphoma and autoimmune conditions.","Mucocutaneous lymph node syndrome (Kawasaki disease) (Choice 8) is a multisystemic vasculitic disease resulting in acute arteritis with a risk for the developmentof coronary artery aneurysms. In children, the disease is characterized by fever for at least 5days, bilateral nonexudative conjunctivitis, a polymorphous rash, lymphadenopathy, erythema and edema of the hands and feet, and erythema affecting the mucous membranes with dry, cracked lips.
+
+Severe combined immunodeficiency (Choice C) results from a variety of different mutations and commonly presents with recurrent bacterial, viral, and fungal infections as a result of severe impairment in both 8-and T-lymphocyte function in infancy. The age of this patient makes this diagnosis unlikely.
+
+Systemic lupus erythematosus (SLE) (Choice D) is an autoimmune disease resulting in a constellation of symptoms, including fever, rash, photosensitivity, kidneydisease, and nonerosive arthritis. The rash in SLE is typically seen over the malar prominences of the cheeks and spares the nasolabial folds.
+
+Transient agammaglobulinemia of infancy (Choice E) is a primary immunodeficiency syndrome characterized by a drop in lgG concentrations greater than the expected physiologic hypogammaglobulinemia that naturally occurs as maternal antibodies are replaced by the infant's own during the first 6 months of life. Patients may present with recurrent bacterial infections. lgA and lgM concentrations are typically normal, and lgG returns to normal concentrations by age 6 years.
+
+X-linked agammaglobulinemia (Choice F) is caused by mutations in the BTK gene that encodes a tyrosine kinase essential for all stages of 8 lymphocyte development and proliferation. Patients lack functioning 8 lymphocytes and therefore lack normal concentrations of immunoglobulins. It nearly always presents within the first 18 months of life with recurrent infections and is more common in males given X-linked inheritance."
+1185,"(qid: 1185) An 8-year-old girl is brought to the physician because her parents are concerned that she is different from their older child and prefers to be alone instead of socializing with peers or family. She carries a doll that she found at a yard sale wherever she goes but never plays with it. Whenever she is without the doll, she becomes distraught and has a tantrum. The parents once invited a girl from their daughter's class to their home, but the patient appeared disinterested and would not play with the other girl. The patient's teachers report that she is often off task and distracted in her second-grade class but that she answers direct questions. She does not participate in games at recess, and she tends to drift off by herself and wander about the playground. She is at the 50th percentile for height, 30th percentile for weight, and 90th percentile for head circumference. Physical examination shows no abnormalities. During the examination, the patient holds an undressed doll by its feet. She makes little eye contact. She occasionally repeats the physician's words instead of answering questions. Which of the following is the most likely diagnosis?
+A) Learning disorder
+B) Mild intellectual developmental disorder
+C) Oppositional defiant disorder
+D) Parent-child relational problem
+E) Pervasive developmental disorder
+","(qid: 1185) An 8-year-old {dem-char-1} {dem-char-2} {dem-char-3} girl is brought to the physician because her parents are concerned that she is different from their older child and prefers to be alone instead of socializing with peers or family. She carries a doll that she found at a yard sale wherever she goes but never plays with it. Whenever she is without the doll, she becomes distraught and has a tantrum. The parents once invited a girl from their daughter's class to their home, but the patient appeared disinterested and would not play with the other girl. The patient's teachers report that she is often off task and distracted in her second-grade class but that she answers direct questions. She does not participate in games at recess, and she tends to drift off by herself and wander about the playground. She is at the 50th percentile for height, 30th percentile for weight, and 90th percentile for head circumference. Physical examination shows no abnormalities. During the examination, the patient holds an undressed doll by its feet. She makes little eye contact. She occasionally repeats the physician's words instead of answering questions. Which of the following is the most likely diagnosis?
+A) Learning disorder
+B) Mild intellectual developmental disorder
+C) Oppositional defiant disorder
+D) Parent-child relational problem
+E) Pervasive developmental disorder
+",E,"Pervasive developmental disorder, which has been reclassified as autism spectrum disorder (ASD), includes a group of neurodevelopmental/neurodivergent syndromes that are characterized by atypical forms of social communication and interaction. ASD includes autism, Asperger syndrome, childhood disintegrative disorder, and pervasive developmental disorder not otherwise specified. ASD is characterized by a broad range of signs and symptoms involving restricted and repetitive patterns of behavior or activities. Children with autism often display decreased interest in socializing and may have challenging behaviors conflicting with established societal norms. Children may also display a narrow and focused range of interests, an increased reliance on routine, and apprehension to change or unexpected circumstances. The clinical manifestations of ASD typically present within the first 2 years of life with an observed delay or regression of communication and/or social skills. This typically includes decreased nonverbal communication, such as eye contact and facial expressions. Management of ASD is individualized depending on the clinical manifestations and degree of social distress for the patient. Therapy involves behavioral, developmental, social, and educational interventions to improve social functioning, communication skills, and academic functioning.","Learning disorder (Choice A) is not likely for this patient. Learning disorders are characterized by a persistent impairment in reading, written expression, or mathematical ability. Patients may have difficulty with specific skills relating to these subjects. Learning disorders may coexist with ASD.
+
+Mild intellectual developmental disorder (Choice B) refers to mild impairment related to abstract or theoretical thinking, and patients may also have decreased social and daily functional skills. They are typically able to adapt to living in society with life-skills training in specific areas.
+
+Oppositional defiant disorder (Choice C) manifests as a persistent pattern of angry mood, defiant behavior, and vindictiveness that can cause impaired functioning in the child and distress to their caretakers.
+
+Parent-child relational problem (Choice D) is diagnosed by the presence of pervasive dissatisfaction with the relationship, persistent thoughts of running away, and a perception that professional help is needed for maintaining the relationship. It often manifests as difficulties with conflict resolution that may escalate quickly or be marked by withdrawal that prevents resolution. There are frequent feelings of anger, contempt, apathy, and sadness."
+1186,"(qid: 1186) A 10-year-old girl is brought to the physician by her mother 3 hours after she refused to get out of bed this morning. Over the past 4 days, she has had fever, malaise, and severe pain in her elbows, wrists, and knees. The family recently lived in a refugee camp. She appears flushed and acutely ill. Her pulse is 110/min, respirations are 20/m√° and blood pressure is 100/40 mm Hg. The knee and ankle joints are warm and swollen. A grade 4/6 holosystolic murmur is heard at the apex and radiates to the left axilla. Which of the following is the most likely diagnosis?
+A) Dengue fever
+B) Lyme disease
+C) Malaria
+D) Mucocutaneous lymph node syndrome (Kawasaki disease)
+E) Rheumatic fever
+F) Typhoid fever
+","(qid: 1186) A 10-year-old {dem-char-1} {dem-char-2} {dem-char-3} girl is brought to the physician by her mother 3 hours after she refused to get out of bed this morning. Over the past 4 days, she has had fever, malaise, and severe pain in her elbows, wrists, and knees. The family recently lived in a refugee camp. She appears flushed and acutely ill. Her pulse is 110/min, respirations are 20/m√° and blood pressure is 100/40 mm Hg. The knee and ankle joints are warm and swollen. A grade 4/6 holosystolic murmur is heard at the apex and radiates to the left axilla. Which of the following is the most likely diagnosis?
+A) Dengue fever
+B) Lyme disease
+C) Malaria
+D) Mucocutaneous lymph node syndrome (Kawasaki disease)
+E) Rheumatic fever
+F) Typhoid fever
+",E,"The most likely diagnosis for this patient is rheumatic fever, characterized by arthritis and a murmur suggestive of mitral regurgitation. Rheumatic fever is a sequela of untreated Streptococcus (group A) infection, commonly pharyngitis, in which there is a type II hypersensitivity reaction to self-antigens having a similar structure to, and thus molecularly mimicking, streptococcal M protein. Diagnosis is made by the Jones criteria, which describe many of the core clinical features of rheumatic fever, including the major criteria of polyarthritis, carditis, subcutaneous nodules, erythema marginatum, and Sydenham chorea, as well as minor criteria of fever, leukocytosis, arthralgia, and PR interval prolongation. Patients often have an increased antistreptolysin O titer. Complications of rheumatic fever include mitral valve inflammation leading to long-term sequelae of chronic mitral valve regurgitation, prolapse, or stenosis. Treatment of the initial streptococcal infection is effective for reducing the risk for developing rheumatic fever. Per American Heart Association guidelines, once rheumatic fever has developed, treatment includes salicylates and a prolonged course of monthly penicillin treatments to reduce the risk for recurrence and further valvular damage.","Dengue fever (Choice A) is caused by a flavivirus transmitted by Aedes mosquitoes in endemic tropical and subtropical regions of the world. Primary infection is typically benign, but a second exposure can result in dengue fever, which typically presents with a high fever, headache, myalgias, and arthralgias. Severe cases may be complicated by diffuse hemorrhagic disease and/or distributive shock.
+
+Lyme disease (Choice B) is a tick-borne disease caused by the spirochete Borrelia burgdorferi and characteristically causes erythema chronicum migrans, an expanding rash that may have a central ring-like clearing. Later stages of Lyme disease can be characterized by carditis, atrioventricular heart block, facial nerve palsy (which may be bilateral), migratory arthralgias, and, if left untreated, encephalopathy and chronic arthritis.
+
+Malaria (Choice C) typically presents with fatigue, fever, chills, and anemia in a patient with recent exposure to an endemic region, particularly within the tropical latitudes of Africa or Central/South America. Plasmodium falciparum infection can be complicated by severe disease, including cerebral malaria and acute kidney injury.
+
+Mucocutaneous lymph node syndrome (Kawasaki disease) (Choice D) is a multisystemic vasculitis resulting in acute arteritis with a risk for the development of coronary artery aneurysms. In children, the disease is characterized by fever for at least 5 days, bilateral nonexudative conjunctivitis, a polymorphous rash, lymphadenopathy, erythema and edema of the hands and feet, and erythema affecting the mucous membranes with dry, cracked lips.
+
+Typhoid fever (Choice F) is caused by the gram-negative bacillus Salmonella typhi and typically presents with fever, abdominal pain, and nonbloody diarrhea. Physical examination may show a characteristic rash of small red macules (called rose spots) that spreads from the trunk to the extremities."
+1187,"(qid: 1187) A previously healthy 7-week-old girl is brought to the emergency department by her parents because of a 3-day history of progressive vomiting. Her symptoms began with spitting up after every feeding; now she has forceful vomiting. Her mother says that she has seemed hungry during this period. She has not had fever or diarrhea. She is alert and appears well hydrated. Her temperature is 37.4¬°C (99.3¬° F), pulse is 120/min, and respirations are 28/min. Examination shows no other abnormalities. Laboratory studies show:
+Hemoglobin
+Leukocyte count Segmented neutrophils LymphocytesMonocytes
+Platelet count
+Serum Na+
+-c1e
+K +-
+-HCO3
+
+Urea nitrogen Glucose Creatinine
+9 g/dL8500/mm3 50%
+45%
+5% 360,000/mm3
+138 mEq/L 90 mEq/L
+3.6 mEq/L36 mEq/L 25 mg/dL 70 mg/dL
+0.3 mg/dL
+√∞ r-√∞ ,,.Lab Values Calculator Help Pause
+
+Which of the following is the most likely diagnosis?
+A) Acute hyperammonemia
+B) Acute viral gastroenteritis
+C) Gastroesophageal reflux
+D) Hemolytic-uremic syndrome
+E) Malrotation of the intestine
+F) Porphyria
+G) Pyloric stenosis
+","(qid: 1187) A previously healthy 7-week-old {dem-char-1} {dem-char-2} {dem-char-3} girl is brought to the emergency department by her parents because of a 3-day history of progressive vomiting. Her symptoms began with spitting up after every feeding; now she has forceful vomiting. Her mother says that she has seemed hungry during this period. She has not had fever or diarrhea. She is alert and appears well hydrated. Her temperature is 37.4¬°C (99.3¬° F), pulse is 120/min, and respirations are 28/min. Examination shows no other abnormalities. Laboratory studies show:
+Hemoglobin
+Leukocyte count Segmented neutrophils LymphocytesMonocytes
+Platelet count
+Serum Na+
+-c1e
+K +-
+-HCO3
+
+Urea nitrogen Glucose Creatinine
+9 g/dL8500/mm3 50%
+45%
+5% 360,000/mm3
+138 mEq/L 90 mEq/L
+3.6 mEq/L36 mEq/L 25 mg/dL 70 mg/dL
+0.3 mg/dL
+√∞ r-√∞ ,,.Lab Values Calculator Help Pause
+
+Which of the following is the most likely diagnosis?
+A) Acute hyperammonemia
+B) Acute viral gastroenteritis
+C) Gastroesophageal reflux
+D) Hemolytic-uremic syndrome
+E) Malrotation of the intestine
+F) Porphyria
+G) Pyloric stenosis
+",G,"Pyloric stenosis is a disorder of the pyloric sphincter that occurs in young infants and can result in partial or complete gastric outlet obstruction. It is caused by hypertrophy of the pylorus and an inability to relax the pyloric sphincter. Infants classically present within the first 1 to 2 months of life with forceful, nonbilious emesis. Physical examination is notable for a characteristic ovoid mass in the epigastric region. The recurrent emesis, if severe, may result in signs of volume depletion and malnutrition. Laboratory studies typically show a hypochloremic, hypokalemic metabolic alkalosis caused by the loss of gastric hydrochloric acid and potassium ions. Additionally, the resultant volume depletion causes activation of the renin-angiotensin-aldosterone system, resulting in renal losses of potassium and protons. Confirmatory diagnosis is made with ultrasonography to evaluate the thickness and length of the pyloric muscle. Patients are treated with surgical pyloromyotomy to relieve the stenosis.","Acute hyperammonemia (Choice A) in children is often caused by an underlying genetic metabolic abnormality (eg, ornithine transcarbamylase deficiency, mediumchain acyl-CoA dehydrogenase deficiency). Symptoms of hyperammonemia in infants include somnolence and vomiting. If severe, hyperammonemia can lead to cerebral edema.
+Acute viral gastroenteritis (Choice B) often presents with vomiting and diarrhea with or without fever. This patient with progressive and forceful emesis occurring only after feeding has a presentation more consistent with gastric outlet obstruction.
+Gastroesophageal reflux (Choice C) disease (GERO) is caused by acid reflux into the lower esophagus. This commonly occurs as a result of increased intraabdominal pressure or diminished closing pressure of the lower esophageal sphincter permitting acidic contents of the stomach to reflux into the esophagus. In an infant, GERO presents with frequent regurgitation without excessive irritability.
+Hemolytic-uremic syndrome (Choice D) is typically associated with infection from enterohemorrhagic Escherichia coli 0157:H? due to the production of Shiga toxin. It classically presents in children with bloody diarrhea accompanied by microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury.
+Malrotation of the intestine (Choice E) results from the incomplete rotation of the midgut during embryonal development. This places the newborn at risk for midgut volvulus, which can present with bilious vomiting, abdominal distension, and pain, and, when severe, intestinal necrosis, hematochezia, perforation, and peritonitis.
+Porphyria (Choice F) may present with abdominal pain, polyneuropathy, psychological symptoms, and port-wine-colored urine."
+1188,"(qid: 1188) A 17-year-old girl comes to the office because of a 5-day history of a nontender lesion on her vagina. She is sexually active with three male partners, and they use condoms inconsistently. Her temperature is 37.2¬°C (99¬° F), pulse is 78/min, respirations are 18/min, and blood pressure is 106/68 mm Hg. Examination shows a 2 x 2-cm ulcerated lesion with raised borders over the right labium majus. Which of the following is the most likely causal organism?
+A) Gram-negative bacillus
+B) Gram-negative diplococcus
+C) Obligate intracellular bacterium
+D) Protozoan
+E) Spirochete
+F) Virus
+","(qid: 1188) A 17-year-old {dem-char-1} {dem-char-2} {dem-char-3} girl comes to the office because of a 5-day history of a nontender lesion on her vagina. She is sexually active with three male partners, and they use condoms inconsistently. Her temperature is 37.2¬°C (99¬° F), pulse is 78/min, respirations are 18/min, and blood pressure is 106/68 mm Hg. Examination shows a 2 x 2-cm ulcerated lesion with raised borders over the right labium majus. Which of the following is the most likely causal organism?
+A) Gram-negative bacillus
+B) Gram-negative diplococcus
+C) Obligate intracellular bacterium
+D) Protozoan
+E) Spirochete
+F) Virus
+",E,"Syphilis is a sexually transmitted disease from the spirochete Treponema pallidum that can present in multiple stages. Primarily syphilis presents with a painless chancre (ulcer) of the genitalia. There are typically no systemic signs or symptoms of syphilis infection at this stage. Rapid plasma reagin can be falsely negative in the primary stage of syphilis. Dark-field microscopy of fluid from the chancre is the most sensitive test for diagnosis of primary syphilis. The treatment for primary syphilis is a single benzathine Penicillin G intramuscular injection. Testing and treatment for additional sexually transmitted infections is appropriate, as they often coinfect patients.","A gram-negative bacillus (Choice A), Haemophilus ducreyii, causes the sexually transmitted infection chancroid. Chancroid presents with painful genital ulceration and inguinal lymphadenopathy.
+
+Gram-negative diplococcus (Choice B), such as Neisseria gonorrhoeae, can cause cervicitis, pelvic inflammatory disease, Fitz-Hugh-Curtis syndrome, and migratory, septic arthritis. Gonococcal urethritis typically presents with dysuria and mucopurulent penile discharge.
+
+Chlamydia trachomatis, an obligate intracellular bacterium (Choice C), is a common sexually transmitted disease that can cause cervicitis, pelvic inflammatory disease, epididymitis, and urethritis. A painless genital ulcer is more consistent with a diagnosis of syphilis.
+
+Trichomonas vaginalis is an anaerobic, flagellated protozoan (Choice D) that causes vaginal trichomoniasis. Trichomoniasis presents with pruritus, dysuria, dyspareunia, cervical erythema, and abnormal discharge that is described as green, frothy, and malodorous. Motile trichomonads can be visualized on wet mount preparation.
+
+A virus (Choice F) such as herpes simplex virus presents with painful genital lesions that begin as areas of erythema, erupt as clear, fluid-filled, confluent vesicles, and subsequently evolve to crusted ulcerations which heal without leaving a scar."
+1189,"(qid: 1189) A 12-year-old boy is brought for a well-child examination. Since his last visit 1 year ago, he has had no illnesses. His pulse is 102/min, respirations are 21/min, and blood pressure is 102/60 mm Hg. Examination shows no abnormalities. Urinalysis shows 3+ protein. Which of the following is the most appropriate next step in diagnosis?
+A) Repeat urinalysis at bedtime and on awakening
+B) Intravenous pyelography
+C) Renal ultrasonography
+D) Trial of corticosteroid therapy
+E) Renal biopsy
+","(qid: 1189) A 12-year-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought for a well-child examination. Since his last visit 1 year ago, he has had no illnesses. His pulse is 102/min, respirations are 21/min, and blood pressure is 102/60 mm Hg. Examination shows no abnormalities. Urinalysis shows 3+ protein. Which of the following is the most appropriate next step in diagnosis?
+A) Repeat urinalysis at bedtime and on awakening
+B) Intravenous pyelography
+C) Renal ultrasonography
+D) Trial of corticosteroid therapy
+E) Renal biopsy
+",A,"The first approach in assessing incidentally found proteinuria in a healthy asymptomatic child is to repeat the urinalysis. The most common cause of proteinuria in asymptomatic children is transient proteinuria secondary to other causes such as fever, stress, exercise, and dehydration. In addition, proteinuria can be orthostatic or postural, with increased protein in a standing or upright position that normalizes when a patient is supine or recumbent. Orthostatic proteinuria is common in adolescent males. A repeat urinalysis on awakening would likely show a normal urinalysis, and a urinalysis at bedtime would show proteinuria. In a patient with persistent proteinuria, further workup should be done to evaluate kidney disease.","Intravenous pyelography (Choice b) involves the intravenous injection of radio-opaque contrast to visualize the renal collecting system, ureters, and bladder under fluoroscopy. This allows for the investigation of suspected urinary tract anatomic abnormalities, malignancies, and strictures.
+
+Renal ultrasonography (Choice c) is useful in the evaluation of obstruction, abscess, tumors, or cysts. A repeat urinalysis is a more appropriate initial step for the evaluation of potential benign proteinuria in an otherwise healthy adolescent.
+
+A trial of corticosteroid therapy (Choice d) would be inappropriate for a benign condition such as transient or orthostatic proteinuria. This therapy may be appropriate for certain cases of nephritic or nephrotic syndrome instead.
+
+Renal biopsy (Choice e) would be helpful in the diagnosis of kidney diseases that cause persistent proteinuria, such as nephrotic or nephritic syndromes. It would be an inappropriate next step while the diagnosis is still being established, as it is invasive and carries substantial procedural risk that may be unnecessary."
+1190,"(qid: 1190) A healthy 16-month-old girl is brought to the physician because of a painless right-sided limp since she began to walk 4 months ago. She was delivered at term by cesarean section because of breech presentation. There is no family history of musculoskeletal disorders. Examination shows a left lower extremity that is shorter than the right; sensation, circulation, and muscle strength are normal. Abduction of the left hip is limited to 30 degrees. Examination of the right hip shows no abnormalities. Which of the following is the most likely underlying mechanism of these findings?
+A) Acute epiphyseal fracture
+B) Acute suppurative arthritis
+C) Avulsion of muscle origin
+D) Displacement of the capital femoral epiphysis
+E) Failure of osteoid to mineralize
+F) Poorly developed acetabulum
+","(qid: 1190) A healthy 16-month-old {dem-char-1} {dem-char-2} {dem-char-3} girl is brought to the physician because of a painless right-sided limp since she began to walk 4 months ago. She was delivered at term by cesarean section because of breech presentation. There is no family history of musculoskeletal disorders. Examination shows a left lower extremity that is shorter than the right; sensation, circulation, and muscle strength are normal. Abduction of the left hip is limited to 30 degrees. Examination of the right hip shows no abnormalities. Which of the following is the most likely underlying mechanism of these findings?
+A) Acute epiphyseal fracture
+B) Acute suppurative arthritis
+C) Avulsion of muscle origin
+D) Displacement of the capital femoral epiphysis
+E) Failure of osteoid to mineralize
+F) Poorly developed acetabulum
+",F,"Developmental dysplasia of the hip occurs as the result of an abnormal or poorly developed acetabulum in infants. Risk factors include female sex, breech position during delivery, and family history of the condition. In infants, there may be an associated limb-length discrepancy and inability to abduct the limb. In infants, the Barlow and Ortolani maneuvers may be used to test for hip instability and help diagnose developmental dysplasia of the hip. Additional testing including ultrasonography may be useful to diagnose infants younger than age 4 months. If left untreated, developmental dysplasia of the hip may result in functional disability, pain, and early osteoarthritis. The most common treatment for infants with this condition is an abduction splint, most commonly the Pavlik harness.","Acute epiphyseal fracture (Choice A) or fracture of the growth plate could occur in the case of mechanical trauma. Patients would commonly present with pain, associated ecchymosis, and guarding of the affected area.
+
+Acute suppurative arthritis (Choice B), or septic arthritis, is the result of bacterial infection of the joint. The most common cause of septic arthritis is Staphylococcus aureus, and risk factors include hematogenous spread, direct inoculation from trauma, or may be the result of spread of infection from the overlying skin. Patients may have associated fevers, joint pain, and decreased range of motion. These patients should be treated with arthrocentesis and intravenous antibiotics.
+
+Avulsion of muscle origin (Choice C) is commonly associated with traumatic injury, as in the case of an Achilles injury. In an avulsive injury, such as an Achilles injury, a palpable step-off may be present at the site of tendon injury or a palpable mass present in the case of a biceps injury.
+
+Displacement of the capital femoral epiphysis (Choice D) occurs in slipped capital femoral epiphysis injury. This injury commonly occurs in adolescents and is the result of the head of the femur slipping off of the femoral neck, generally in an inferior and posterior direction. This condition is more common in young males with obesity or in a growth spurt. It can be diagnosed with frontal and frog-leg x-rays of the hips. Treatment involves conservative measures, such as crutches, or operative intervention, including surgical fixation.
+
+Failure of osteoid to mineralize (Choice E) occurs in the case of rickets. Pediatric patients with rickets may present with bowed legs or varus deformity. Risk factors include vitamin D deficiency caused by poor dietary intake or sun absorption, a malabsorptive state, and several genetic conditions."
+1191,"(qid: 1191) A 16-year-old girl is brought to the office by her mother for a health maintenance examination. She has no history of serious illness and takes no medications. Immunizations are up-to-date. Menses occur at irregular 28-to 35-day intervals. Her last menstrual period was 3 weeks ago. She does not smoke cigarettes, drink alcohol, or use illicit drugs. She has been sexually active with one male partner for 1 year; they do not use condoms. Her mother was diagnosed with breast cancer at the age of 40 years. The patient is 163 cm (5 ft 4 in) tall and weighs 65 kg (143 lb); BMI is 25 kg/m2. Vital signs are within normal limits. Breast examination shows no masses or discharge. The external genitalia appear normal; there is no vaginal discharge. Breast and pubic hair development are sexual maturity rating stage 5. Which of the following is the most appropriate screening test to administer at this time?
+A) Mammography
+B) Measurement of fasting serum glucose concentration
+C) Measurement of hemoglobin concentration
+D) Nucleic acid amplification testing for Chlamydia trachomatis and Neisseria gonorrhoeae
+E) Pap smear
+","(qid: 1191) A 16-year-old {dem-char-1} {dem-char-2} {dem-char-3} girl is brought to the office by her mother for a health maintenance examination. She has no history of serious illness and takes no medications. Immunizations are up-to-date. Menses occur at irregular 28-to 35-day intervals. Her last menstrual period was 3 weeks ago. She does not smoke cigarettes, drink alcohol, or use illicit drugs. She has been sexually active with one male partner for 1 year; they do not use condoms. Her mother was diagnosed with breast cancer at the age of 40 years. The patient is 163 cm (5 ft 4 in) tall and weighs 65 kg (143 lb); BMI is 25 kg/m2. Vital signs are within normal limits. Breast examination shows no masses or discharge. The external genitalia appear normal; there is no vaginal discharge. Breast and pubic hair development are sexual maturity rating stage 5. Which of the following is the most appropriate screening test to administer at this time?
+A) Mammography
+B) Measurement of fasting serum glucose concentration
+C) Measurement of hemoglobin concentration
+D) Nucleic acid amplification testing for Chlamydia trachomatis and Neisseria gonorrhoeae
+E) Pap smear
+",D,"For this healthy, adolescent female patient, preventive measures will primarily address her sexual health. The US Preventive Services Task Force (USPSTF) recommends screening all sexually active women under age 25 years for Chlamydia trachomatis and Neisseria gonorrhoeae infection. C. trachomatis is a common sexually transmitted infection that can cause various infections, including cervicitis, pelvic inflammatory disease, epididymitis, and urethritis. However, in many cases it is asymptomatic, and thus, screening asymptomatic patients is important for finding and treating active infections before long-term sequelae develop. C. trachomatis and N. gonorrhoeae commonly coinfect the same patient.","Mammography (Choice A) is recommended for breast cancer screening every 1 to 2 years for patients over age 40 years. Measurement of fasting serum glucose concentration (Choice B) and measurement of hemoglobin concentration (Choice C) are methods of screening for diabetes mellitus and anemia (in the case of routine hemoglobin testing) or diabetes mellitus (in the case of hemoglobin A1c measurement). Diabetic screening is recommended for asymptomatic adolescents who are overweight and with particular risk factors, such as evidence of insulin resistance. The USPSTF does not recommend routine screening for iron deficiency anemia for children or pregnant patients, as evidence for benefit is lacking. Screening for a sexually transmitted infection is more important for this patient. Pap smear (Choice E) is recommended every 3 years for women aged 21 to 29 years and every 5 years in conjunction with human papillomavirus cotesting (every 3 years if cotesting is not performed) for women aged 30 to 65 years."
+1192,"(qid: 1192) A 17-year-old girl comes to the office because she has had a burning sensation at the beginning of urination for the last 24 hours. She has no history of similar symptoms. Examination shows no abnormalities. Urinalysis shows marked pus and no bacteria. Which of the following is the most appropriate next step in management?
+A) Sitz baths
+B) Testing for sexually transmitted diseases
+C) Wet mount preparation with KOH
+D) X-ray screening for urinary anomaly
+E) No intervention
+","(qid: 1192) A 17-year-old {dem-char-1} {dem-char-2} {dem-char-3} girl comes to the office because she has had a burning sensation at the beginning of urination for the last 24 hours. She has no history of similar symptoms. Examination shows no abnormalities. Urinalysis shows marked pus and no bacteria. Which of the following is the most appropriate next step in management?
+A) Sitz baths
+B) Testing for sexually transmitted diseases
+C) Wet mount preparation with KOH
+D) X-ray screening for urinary anomaly
+E) No intervention
+",B,"The clinician should offer testing for sexually transmitted diseases, or sexually transmitted infections (STIs), at this time. STIs including chlamydia, gonorrhea, and syphilis, are a major public health concern as they are often asymptomatic and can cause significant complications if left untreated. Adolescents are an at-risk demographic, especially as stigma regarding sexual activity and concerns about confidentiality may make individuals uncomfortable in disclosing any exposures or concerns regarding STIs. Urinary symptoms are a common presenting complaint for sexually active patients, and urinary tract infections (UTIs) often occur concurrently with STIs. Patients presenting with clinical findings of infection, such as dysuria and pyuria in this case, should be evaluated for both urinary tract infections and sexually transmitted infections, and appropriate treatment based on the results should be prescribed.","Sitz baths (Choice A) can help alleviate symptoms of a UTI but should not replace appropriate diagnostic testing and antimicrobial therapy. Sitz baths are more commonly used for perianal pathologies, such as hemorrhoids.
+
+Wet mount preparation with KOH (Choice C) is useful in diagnosing Candida vulvovaginitis, which typically presents with pain, pruritis, dysuria, and dyspareunia. Examination typically shows vulvar and/or vaginal erythema and thick, white discharge. This patient's clinical findings are more consistent with UTI or STI.
+
+X-ray screening for urinary anomaly (Choice D) is not indicated at this time. Patients presenting with recurrent urinary tract infections may have an underlying anatomic abnormality causing obstruction of the flow of urine and stasis predisposing them to infection. Additionally, ultrasound, CT imaging, or fluoroscopic studies are generally more sensitive for detecting structural urinary anomalies than a plain film x-ray.
+
+No intervention (Choice E) is not appropriate as untreated STIs may have severe complications including upper genitourinary tract infection, pelvic inflammatory disease, abscess, and infertility."
+1193,"(qid: 1193) A 6-month-old boy is brought to the office for a well-child examination. He is exclusively fed cow milk-based formula. His mother reports that he takes his bottle vigorously, but he frequently spits up after eating. He has not had diarrhea or fever. Development is appropriate for age. He has dropped from the 50th percentile to the 35th percentile for weight since his last visit 2 months ago. Length and head circumference remain at the 50th percentile. Examination shows decreased subcutaneous fat. No other abnormalities are noted. Which of the following is the most likely diagnosis?
+A) Gastroesophageal reflux disease
+B) Inflammatory bowel disease
+C) Necrotizing enterocolitis
+D) Pancreatitis
+E) Pyloric stenosis
+","(qid: 1193) A 6-month-old {dem-char-1} {dem-char-2} {dem-char-3} boy is brought to the office for a well-child examination. He is exclusively fed cow milk-based formula. His mother reports that he takes his bottle vigorously, but he frequently spits up after eating. He has not had diarrhea or fever. Development is appropriate for age. He has dropped from the 50th percentile to the 35th percentile for weight since his last visit 2 months ago. Length and head circumference remain at the 50th percentile. Examination shows decreased subcutaneous fat. No other abnormalities are noted. Which of the following is the most likely diagnosis?
+A) Gastroesophageal reflux disease
+B) Inflammatory bowel disease
+C) Necrotizing enterocolitis
+D) Pancreatitis
+E) Pyloric stenosis
+",A,"Gastroesophageal reflux disease is extremely common in infants. This is the result of diminished closing pressure of the lower esophageal sphincter, permitting acidic contents of the stomach to reflux into the esophagus. Reflux events may occur up to 30 times per day. Some of these episodes result in contents entering the oral cavity and decrease through the first year of life. Infants who demonstrate good weight gain, are feeding well, and are not irritable, are managed conservatively. Modifications that may improve symptoms include having infants avoid secondhand smoke exposure, smaller and more frequent meals, and keeping infants upright after feeding when possible. Infants who experience reflux and poor weight gain should undergo further evaluation for calorie count, ultrasonography to rule out pyloric stenosis, and have their diets adjusted to thickened feeds or breast milk. In patients with refractory cases, a trial of proton pump inhibitors may be warranted.","Inflammatory bowel disease (Choice B) includes ulcerative colitis and Crohn disease. Ulcerative colitis is associated with inflammation of the mucosal layer of the colon and manifests with bloody diarrhea, abdominal pain, and tenesmus. Crohn disease may occur at any point in the gastrointestinal tract and symptoms differ based on the area of involvement.
+Necrotizing enterocolitis (Choice C) is associated with intestinal necrosis. This condition is most common in premature infants and is diagnosed by history, examination, and imaging (pneumatosis intestinalis on x-ray). Treatments include antibiotics and surgical intervention in the case of intestinal perforation.
+Pancreatitis (Choice D) is associated with the development of abdominal pain, often radiating to the back, nausea, vomiting, fevers, and epigastric tenderness. Laboratory analysis may show increased amylase and lipase, while imaging may show peripancreatic inflammation. This patient's presentation is not consistent with acute pancreatitis.
+Pyloric stenosis (Choice E) is caused by hypertrophy of the pyloric sphincter, resulting in gastric outlet obstruction, which typically first presents at around 3 to 6 weeks of life. It is characterized by repeated vomiting after feeds, leading to dehydration and a hypochloremic, hypokalemic metabolic alkalosis."
+1369,"(qid: 1369) An 82-year-old man with end-stage renal disease is brought to the physician because he wants to discontinue hemodialysis therapy. He says his quality of life has declined since he entered a skilled nursing care facility 6 months ago. He also has type 2 diabetes mellitus, hypertension, and spinal stenosis. His medications are metformin and lisinopril. His wife and children live nearby and his wife visits him daily. He has designated his eldest son, who is an attorney, as durable power of attorney for health care and estate decisions. His daughter is a physician. The patient is cooperative, polite, and in no acute distress. On mental status examination, he says he is ""tired of this dialysis and all my other medical problems."" He has a full range of affect, but it is primarily serious. His thought process is linear and goal directed. His cognitive function is intact. He confirms that he wants to end hemodialysis. Which of the following is the most appropriate next step in addressing this patient's desire to end therapy?
+A) Contact the patient's daughter
+B) Contact the patient's son
+C) Contact the patient's wife
+D) Consult the state probate court
+E) Discontinue hemodialysis
+","(qid: 1369) An 82-year-old {dem-char-1} {dem-char-2} {dem-char-3} man with end-stage renal disease is brought to the physician because he wants to discontinue hemodialysis therapy. He says his quality of life has declined since he entered a skilled nursing care facility 6 months ago. He also has type 2 diabetes mellitus, hypertension, and spinal stenosis. His medications are metformin and lisinopril. His wife and children live nearby and his wife visits him daily. He has designated his eldest son, who is an attorney, as durable power of attorney for health care and estate decisions. His daughter is a physician. The patient is cooperative, polite, and in no acute distress. On mental status examination, he says he is ""tired of this dialysis and all my other medical problems."" He has a full range of affect, but it is primarily serious. His thought process is linear and goal directed. His cognitive function is intact. He confirms that he wants to end hemodialysis. Which of the following is the most appropriate next step in addressing this patient's desire to end therapy?
+A) Contact the patient's daughter
+B) Contact the patient's son
+C) Contact the patient's wife
+D) Consult the state probate court
+E) Discontinue hemodialysis
+",E,"Physicians should respect patient autonomy. This principle is especially pertinent when the patient is an adult without evidence of psychiatric or medical conditions that impair basic decision-making capabilities. Though patients may make decisions physicians deem as poor medical judgment, the ethical principle of autonomy dictates that patients have the right to make these decisions. Coercive treatment is only warranted when patients experience medical or psychiatric conditions that interfere with their ability to make decisions. This patient has intact cognitive function and appears to possess decisional capacity to end hemodialysis in that he is able to appropriately verbalize his reasoning for ending hemodialysis (valuing his quality of life).","Contacting the patient's daughter, son, or wife (Choices A, B, and C) is unnecessary, as the physician should respect the patient's autonomy. If the patient lacked decisional capacity, his durable power of attorney (his son) (Choice B) should be contacted first for substitute decision making. However, the patient is a consenting adult who appears to have decisional capacity to end hemodialysis. Consulting the state probate court (Choice D) would only be warranted if the patient lacked decisional capacity and had no next of kin (substitute decision makers)."
